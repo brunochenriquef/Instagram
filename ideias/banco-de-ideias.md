@@ -9,7 +9,7 @@ Legenda de status: ⬜ não usada · 🎬 roteirizada · ✅ postada
 | ⬜ | Reel | "Quanto custa alugar uma lancha por um dia? A resposta vai te surpreender." | Quebrar o mito de que é só para milionário; dividir o valor por pessoa |
 | 🎬 | Reel | "Tem lancha parada na marina o ano inteiro…" | Diário da Move Ep. 1 → `roteiros/2026-11-diario-da-move-ep01.md` |
 | ⬜ | Carrossel | "5 erros que todo mundo comete na primeira vez que aluga um barco" | Conteúdo útil e salvável, CTA para a Move |
-| ⬜ | Reel | "O dono de lancha usa o barco 12 dias por ano. O resto do tempo ele custa dinheiro." | Lado da oferta: por que donos colocam o barco na Move |
+| ⬜ | Reel | "O dono de lancha usa o barco [X] dias por ano. O resto do tempo ele custa dinheiro." (confirmar número real) | Lado da oferta: por que donos colocam o barco na Move |
 | ⬜ | Carrossel | "Como funciona um marketplace por dentro" | Autoridade de fundador, explica o modelo |
 | ⬜ | Reel | "A pior semana da Move até agora." | Bastidor honesto: um problema e como foi resolvido |
 | ⬜ | Stories | Enquete: "Você já alugou um barco?" → caixinha de dúvidas | Gera pauta e leads |
