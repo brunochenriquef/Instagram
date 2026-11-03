@@ -8,7 +8,10 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
 
 - **@:** @brunochenriquef — conta profissional, com página do Facebook vinculada
 - **Seguidores:** 1.667 (em 03/11/2026)
-- **Meta:** 10.000 seguidores (faltam ~8.300)
+- **Meta:** 10.000 seguidores em **6 meses, até 03/05/2027** (faltam ~8.300; ~46/dia).
+  Marcos mensais em `estrategia/plano-10k.md`.
+- **Dados:** Metricool conectado (marca "Brunochenriquef", brandId `7858697`,
+  fuso `America/Fortaleza`). Use as ferramentas do Metricool para métricas.
 - **Negócios que o perfil precisa alimentar:**
   1. **Move** — plataforma de locação e intermediação. Hoje foca em **embarcações**
      (lanchas, barcos), mas a visão é virar um marketplace de locação maior.

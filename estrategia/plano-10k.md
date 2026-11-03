@@ -1,40 +1,38 @@
-# Plano rumo aos 10k — @brunochenriquef
+# Plano rumo aos 10k em 6 meses — @brunochenriquef
 
 **Ponto de partida:** 1.667 seguidores (03/11/2026)
-**Meta:** 10.000 seguidores → faltam **~8.333**
+**Meta:** 10.000 seguidores até **03/05/2027** → faltam **~8.333**
+**Ritmo médio:** ~1.390 seguidores/mês · ~46 por dia
 
-## A conta (ritmo necessário)
+> 6 meses é agressivo para quem está em 1,6k. Dá para fazer, mas o ritmo atual
+> (2–3 Reels/semana, Stories como formato principal) **não** chega lá. O plano abaixo
+> aumenta volume de Reels, usa collabs toda semana e um pouco de impulsionamento pago.
 
-| Prazo | Seguidores/mês | Seguidores/dia |
-|---|---|---|
-| 6 meses (mai/2027) | ~1.390 | ~46 |
-| 9 meses (ago/2027) | ~925 | ~31 |
-| **12 meses (nov/2027)** — sugerido | **~695** | **~23** |
+## Marcos mensais (crescimento acelera com o tempo)
 
-O prazo de 12 meses é realista para quem posta com consistência e acerta alguns Reels
-por mês. Crescimento no Instagram não é linear: normalmente vem em "degraus" puxados
-por 1 ou 2 conteúdos que estouram. O plano é aumentar o número de tentativas boas.
+| Mês | Data | Ganho no mês | Meta acumulada |
+|---|---|---|---|
+| 1 | 03/12/2026 | +700 | **2.370** |
+| 2 | 03/01/2027 | +1.000 | **3.370** |
+| 3 | 03/02/2027 | +1.300 | **4.670** |
+| 4 | 03/03/2027 | +1.600 | **6.270** |
+| 5 | 03/04/2027 | +1.800 | **8.070** |
+| 6 | 03/05/2027 | +1.930 | **10.000** 🎯 |
 
-### Marcos
+Se no fim do mês 2 estivermos abaixo de 3.000, revisamos a estratégia (não o esforço).
 
-- **2.500** — validar pilares e o formato de Reels que mais traz seguidores
-- **5.000** — rotina fechada (calendário, roteiros em lote, relatório semanal)
-- **7.500** — collabs fixas (Move, comunidade, parceiros náuticos)
-- **10.000** 🎯
-
-## Diagnóstico rápido do que já existe
+## Diagnóstico inicial (a confirmar com os dados do Metricool)
 
 **Pontos fortes**
 - Frequência boa: Stories diários e Reels 2–3x/semana já é melhor que a média.
 - Dois negócios reais (Move + comunidade) = conteúdo de bastidor infinito e autêntico.
-- Nicho visual forte: mar, embarcações, estilo minimalista. Isso fica bonito em vídeo.
+- Nicho visual forte: mar, embarcações, estilo minimalista. Fica bonito em vídeo.
 
-**Gargalos prováveis (a confirmar com dados)**
-- **Stories não trazem seguidor novo**: só quem já te segue vê. Eles são ótimos para
-  relacionamento e venda, mas o crescimento vem de **Reels** (e carrosséis compartilháveis).
+**Gargalos prováveis**
+- **Stories não trazem seguidor novo**: só quem já te segue vê. São ótimos para
+  relacionamento e venda, mas o crescimento vem de **Reels** e carrosséis compartilháveis.
 - **Persona difusa**: Move, comunidade e estilo de vida podem parecer 3 perfis diferentes.
-  Precisa de um fio condutor (ver "Posicionamento").
-- **Falta de medição**: sem saber qual post trouxe seguidores, não dá para repetir o que funciona.
+- **Sem medição por post**: resolvido com o Metricool (conectado em 03/11/2026).
 
 ## Posicionamento (fio condutor)
 
@@ -47,53 +45,55 @@ Tudo que você posta responde a uma de três perguntas:
 
 O mar e as embarcações são o **cenário** que te diferencia de outros perfis de empreendedorismo.
 
-## Estratégia por formato
+## Ritmo para 6 meses
 
-| Formato | Função | Frequência alvo | Como medir |
+| Formato | Antes | **Agora** | Função |
 |---|---|---|---|
-| **Reels** | Crescer (chegar em quem não te segue) | **4x/semana** (subir de 2–3) | Seguidores por Reel, % de não seguidores alcançados |
-| **Carrossel** | Autoridade + salvamentos/compartilhamentos | 2x/semana | Salvamentos e compartilhamentos por alcance |
-| **Stories** | Relacionamento + conversão (Move/comunidade) | Diário (3–8 por dia) | Respostas, cliques no link, toques no perfil |
+| **Reels** | 2–3/semana | **5/semana** (mínimo 4) | Crescer: chegar em quem não te segue |
+| **Testes de Reels (Trial Reels)** | 0 | **2/semana** | Testar ganchos só com não seguidores |
+| **Carrossel** | 1–2/semana | **2/semana** | Salvamentos, compartilhamentos, autoridade |
+| **Collab** | ? | **1/semana** | Somar alcance com outro perfil |
+| **Stories** | Diário | Diário, com **1 sequência de venda/semana** | Relacionamento + Move/comunidade |
 
-### Táticas de crescimento
+### As 5 alavancas
 
-1. **Testes de Reels (Trial Reels):** recurso do Instagram que mostra o Reel primeiro
-   só para não seguidores. Use para testar ganchos sem "queimar" o feed.
-2. **Collabs:** posts em colaboração com a Move, com membros da comunidade e com
-   donos de embarcações parceiros. O alcance é somado. Meta: 2 collabs por mês.
-3. **Série fixa:** um quadro recorrente (ex.: "Diário da Move — semana X") cria hábito e
-   faz o público voltar.
-4. **Ganchos fortes:** os 3 primeiros segundos decidem tudo. Todo roteiro tem 3 opções
-   de gancho para escolher.
-5. **Stories com função:** toda semana, ao menos 1 sequência de Stories que leva para a
-   Move ou para a comunidade (caixinha → resposta → link).
-6. **Reaproveitamento:** cada Reel que performar bem vira carrossel e vice-versa.
+1. **Volume de Reels com gancho forte.** Gravar em lote: 1 sessão de 2–3h por semana
+   rende 5 Reels. Cada roteiro vem com 3 opções de gancho.
+2. **Série fixa: "Diário da Move".** Episódios numerados criam hábito e fazem o público
+   voltar e seguir para ver o próximo.
+3. **Collab toda semana.** Ordem de prioridade: perfil da Move, membros da comunidade,
+   donos de embarcação parceiros, marcas e lugares do litoral, outros criadores de 5k–50k.
+4. **Impulsionamento pago leve.** O Reel que mais trouxe seguidores na semana recebe um
+   impulsionamento pequeno (sugestão: R$ 20–50 por dia, por 3–5 dias), com público de
+   20–35 anos interessado em empreendedorismo e náutica. Orçamento a definir com o Bruno.
+5. **Reaproveitamento.** Reel que performar vira carrossel, e vice-versa. Ideia boa se
+   usa 3 vezes.
 
-## Rotina semanal (proposta)
+## Rotina semanal
 
 | Dia | O quê | Com o Claude |
 |---|---|---|
-| **Segunda** | Relatório da semana anterior + pauta da semana | Relatório em `relatorios/` + 4 roteiros prontos |
-| Terça | Gravação em lote (2–3 Reels) | — |
-| Quarta | Post Reel + carrossel | Legendas e revisão de ganchos |
-| Sexta | Post Reel | — |
-| Domingo | Post Reel/carrossel leve (estilo/vida no mar) | — |
+| **Segunda** | Relatório da semana + pauta | Relatório em `relatorios/` + 5 roteiros prontos |
+| **Terça** | Gravação em lote (5 Reels) | — |
+| Seg / Qua / Sex | Reel (horário a definir pelo Metricool) | Legendas e revisão de ganchos |
+| Ter / Qui | Carrossel + Trial Reel | Texto dos slides |
+| Sábado | Reel leve (vida no mar / boas escolhas) | — |
+| Domingo | Collab ou Reel de opinião | — |
 
-Enquanto os dados não estão conectados, o relatório de segunda é feito com **prints
-do painel do Instagram** que você manda (Painel profissional → Insights).
+## O que medir toda semana (via Metricool)
 
-## O que medir toda semana
-
-- Seguidores: início vs. fim da semana (crescimento líquido)
-- Top 3 posts por **seguidores ganhos**
+- Seguidores ganhos e perdidos (crescimento líquido) vs. meta do mês
+- Top 3 posts por **seguidores ganhos** (métrica "Follows" por post)
 - Top 3 posts por **compartilhamentos + salvamentos**
+- **Taxa de visualização do Reel** (% que passou de 3 segundos) e retenção média
 - Alcance de não seguidores (%)
-- Visitas ao perfil → seguidores (conversão do perfil)
-- Cliques no link da bio (Move / comunidade)
+- Toques no link da bio (Move / comunidade)
 
-## Próximas decisões em aberto
+## Decisões em aberto
 
-- [ ] Confirmar o prazo da meta (sugestão: 12 meses)
-- [ ] Revisar a bio e os destaques (otimização do perfil)
-- [ ] Definir o nome da série fixa
-- [ ] Conectar uma fonte de dados (Windsor.ai, Metricool ou similar)
+- [x] Prazo da meta: **6 meses** (03/05/2027)
+- [x] Conectar fonte de dados: **Metricool** ✅
+- [ ] Orçamento para impulsionamento
+- [ ] @ exatos de Theo Braga, Thales Gomes e Guilherme Benchimol (adicionar no Metricool)
+- [ ] Revisar bio e destaques (otimização do perfil)
+- [ ] Confirmar nome da série fixa ("Diário da Move"?)

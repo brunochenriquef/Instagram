@@ -26,7 +26,11 @@ Depois disso, ele fica disponível nas conversas e eu uso quando fizer sentido.
 
 O plugin **Marketing** (da Anthropic) já está disponível para você.
 
-## 2. Conectar os dados do Instagram (deixamos para depois)
+## 2. Conectar os dados do Instagram — ✅ Metricool conectado (03/11/2026)
+
+**Próximo passo no Metricool:** adicionar as referências como concorrentes
+(no site do Metricool: Análise → Instagram → Concorrentes → adicionar o @).
+Assim eu consigo puxar os posts e o engajamento delas.
 
 Opções, todas usando a API oficial da Meta:
 
