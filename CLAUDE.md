@@ -40,9 +40,12 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
   com experiência real (Move, Community, fé, escolhas), como os posts de feed de @alfredosoares e o
   melhor estático do Bruno ("Todo mundo quer a colheita…"). **Nada de humor nem de frase de coach.**
   O Bruno rejeitou "o mar não fica mais calmo…" e as frases de humor. Banco em `ideias/frases-virais.md`.
+  **Arte: só a frase, no formato que ele já usa.** Ainda em lapidação: usar a voz dos posts do Threads dele.
+- **Série de carrossel "5 ensinamentos de…"** (Aristóteles, Platão, estoicos aplicados ao empreender).
+  Sempre checar a fonte das citações (ex.: "Somos o que fazemos repetidamente" é de Will Durant, não de Aristóteles).
 - **Outros formatos do Bruno:** carrossel escrito (já testou e foi bem); Threads → Instagram
   (posts do Threads viram card ou Reel). O Bruno tem uma automação que traz o conteúdo
-  que ele posta no Threads (4x/semana); sugerido conectar o Threads ao Metricool.
+  que ele posta no Threads (4x/semana); **Threads conectado ao Metricool em 04/11** (dados ainda importando).
 - **Temas do momento:** o Bruno recebe a cada 2 dias, de um agendamento no ChatGPT, uma lista
   de temas em alta (chega no app do ChatGPT, não por e-mail). Quando ele colar aqui, filtrar pelos pilares; um tema bom substitui o post do dia.
 - Detalhes: `relatorios/2026-11-04-diagnostico-inicial.md`.

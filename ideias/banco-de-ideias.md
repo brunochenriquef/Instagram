@@ -78,6 +78,16 @@ Legenda de status: ⬜ não usada · 🎬 roteirizada · ✅ postada
 | ⬜ | Estático (print do post) | Seus posts do Threads com mais engajamento viram card estilo Threads no Insta |
 | ⬜ | Reel de fala | Post do Threads que gerou discussão vira Reel com você falando a ideia |
 
+### Série "5 ensinamentos de…" (carrossel escrito)
+
+| Status | Filósofo | Ideias |
+|---|---|---|
+| 🎬 | **Aristóteles** | Pronto: `roteiros/carrossel-aristoteles.md` |
+| ⬜ | **Platão** | "O começo é a parte mais importante do trabalho" (República) · Alegoria da caverna (sair da bolha) · A carruagem do Fedro (razão conduzindo a emoção nas decisões) · Sócrates via Platão: "Uma vida sem exame não vale a pena ser vivida" (Apologia) |
+| ⬜ | **Sêneca** | Tempo, medo, preparação, riqueza |
+| ⬜ | **Epicteto** | O que depende e o que não depende de você |
+| ⬜ | **Marco Aurélio** | Obstáculo como caminho, disciplina, liderança |
+
 ## Pilar 3 — Boas escolhas (estilo minimalista)
 
 | Status | Formato | Gancho | Ideia |

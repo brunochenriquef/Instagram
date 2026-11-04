@@ -14,8 +14,7 @@
 | **@brunochenriquef** | **1.677 de alcance** (seu melhor estático) | "Todo mundo quer a colheita. Pouca gente aceita o chão molhado que vem antes dela." |
 
 **Fórmula:**
-1. **Arte:** foto sua (P&B, espontânea: trabalhando, no mar, pensando) com **a frase de abertura** em
-   tipografia discreta. Ou fundo escuro só com a frase.
+1. **Arte: só a frase, no formato que o Bruno já usa nos estáticos dele** (decisão de 04/11).
 2. **Frase de abertura:** uma tensão, uma verdade adulta. Séria, sem humor, sem tom de coach.
 3. **Legenda:** 4 a 8 parágrafos curtos, **com experiência pessoal real** (Move, Community, fé,
    escolhas). Fecha com uma pergunta ou um versículo, como você já faz.
@@ -41,3 +40,18 @@
 ### Filosofia e fé
 - [ ] "Se você não sabe para qual porto navega, nenhum vento é favorável." — Sêneca
 - [ ] "Algumas portas fechadas são respostas, não derrotas."
+
+## Versão 3 (mais profundas, em lapidação)
+
+- [ ] "Você não perde tempo. Você troca. A pergunta é: pelo quê?"
+- [ ] "O que você tolera hoje é quem você vai ser daqui a cinco anos."
+- [ ] "Tem dias em que continuar é a decisão mais corajosa que existe."
+- [ ] "Ninguém constrói algo que dure com pressa de ser visto."
+- [ ] "O que te trouxe até aqui não é o que vai te levar adiante."
+- [ ] "Quem você é quando ninguém aplaude é quem você realmente é."
+- [ ] "Crescer dói porque exige deixar de ser quem você foi."
+- [ ] "Fé não é ausência de dúvida. É continuar caminhando com ela."
+
+**Próximo passo de lapidação:** quando os dados do Threads chegarem no Metricool, usar os posts
+dele que mais performaram como referência de voz. As melhores frases vão sair da forma como ele
+mesmo escreve.
