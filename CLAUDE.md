@@ -46,6 +46,11 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
 - **Outros formatos do Bruno:** carrossel escrito (já testou e foi bem); Threads → Instagram
   (posts do Threads viram card ou Reel). O Bruno tem uma automação que traz o conteúdo
   que ele posta no Threads (4x/semana); **Threads conectado ao Metricool em 04/11** (dados ainda importando).
+- **ALCANCE é prioridade (04/11).** O conteúdo de tese/autoridade não traz público novo. Priorizar
+  **resultado com número, promessa e história de virada** (ex.: "Em 6 meses, do zero aos 6 dígitos":
+  a Move passou dos 6 dígitos de faturamento, segundo o Bruno; confirmar detalhes antes de usar).
+- **Ritmo fixo da semana:** sábado = Reel de papo descontraído (carro, café, boné pra trás) com assunto
+  de alcance; domingo = só Stories e feed de lifestyle.
 - **Temas do momento:** o Bruno recebe a cada 2 dias, de um agendamento no ChatGPT, uma lista
   de temas em alta (chega no app do ChatGPT, não por e-mail). Quando ele colar aqui, filtrar pelos pilares; um tema bom substitui o post do dia.
 - Detalhes: `relatorios/2026-11-04-diagnostico-inicial.md`.

@@ -14,6 +14,18 @@ Legenda de status: ⬜ não usada · 🎬 roteirizada · ✅ postada
 | ⬜ | Reel | "A pior semana da Move até agora." | Bastidor honesto: um problema e como foi resolvido |
 | ⬜ | Stories | Enquete: "Você já alugou um barco?" → caixinha de dúvidas | Gera pauta e leads |
 
+### ALCANCE: resultado, número, história de virada (prioridade a partir de 04/11)
+
+| Status | Formato | Gancho | Ideia |
+|---|---|---|---|
+| 🎬 | Reel descontraído | "Em 6 meses, a Move saiu do zero e passou dos 6 dígitos." | Sáb 07/11 → `roteiros/2026-11-07-zero-aos-6-digitos.md` |
+| 🎬 | Reel descontraído | "Apresentei a Move pra 10 fundos de venture capital. Foi isso que ouvi." | Sáb 14/11 |
+| ⬜ | Reel | "Faço medicina e a empresa que eu fundei passou dos 6 dígitos em 6 meses." | Variação com a medicina como gancho |
+| ⬜ | Reel | "Quanto custou tirar a Move do papel." | Custos reais (pedir números ao Bruno) |
+| ⬜ | Reel | "O erro que quase matou a Move nos primeiros meses." | História de virada |
+| ⬜ | Reel | "O que eu faria com R$ 10 mil pra começar um negócio hoje." | Assunto amplo, fora do nicho |
+| ⬜ | Carrossel | "6 meses de Move em números" | Resultados reais em slides (pedir números) |
+
 ## Pilar 2 — Empreender jovem / comunidade
 
 | Status | Formato | Gancho | Ideia |
