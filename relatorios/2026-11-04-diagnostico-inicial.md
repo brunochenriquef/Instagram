@@ -46,8 +46,9 @@ o Metricool só coleta isso a partir da conexão (03/11).
 - **Funcionam:** textos longos com história real (Inteli + venture capitals: 1.372 de
   alcance; bastidor da gravação em jan: 2.535; propósito da Move: 1.695), momentos pessoais
   (aniversário: 2.401) e encontros da Community (tatame: 1.214, 31 compartilhamentos).
-- **Não funcionam:** carrosséis de fotos com legenda genérica ("Last few days",
-  "Back to", "Fazedores!"), com 450–800 de alcance.
+- **Alcance menor:** carrosséis de fotos com legenda curta ("Last few days",
+  "Back to", "Fazedores!"), com 450–800 de alcance. **São parte da marca
+  (lifestyle aspiracional) e ficam.** Ajuste: levar para Reels curtos, como faz o @moranofilippo.
 - **Seguidores por post:** 0 ou 1 em todos. Hoje o conteúdo de feed **não converte em seguidor**.
 
 ## Público
@@ -69,6 +70,7 @@ O Metricool ainda mostra a mesma curva para todos os dias (pouco dado). Picos:
    de Reels que entregam valor, nunca como tema do Reel.
 3. **Dobrar o que já funcionou:** bastidor da Move, collabs, lições práticas de decisão,
    opinião com posição clara, relatos de encontros.
-4. **Carrossel com tese, não álbum de fotos.** Toda legenda com história ou lição.
+4. **Lifestyle em vídeo.** Manter a linha aspiracional, mas em Reels de 7 a 15s com áudio em alta.
+   Carrossel de conteúdo, com tese ou história.
 5. **Furar a bolha local:** temas que interessam a qualquer jovem empreendedor do Brasil,
    além de collabs com perfis de fora de São Luís.
