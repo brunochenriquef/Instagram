@@ -44,6 +44,15 @@ Legenda de status: ⬜ não usada · 🎬 roteirizada · ✅ postada
 | ⬜ | Reel | "Saí do plantão e fui direto pra reunião da Move." | Um dia na vida de um Fazedor |
 | ⬜ | Reel | "O que o hospital me ensinou sobre tomar decisão sob pressão." | Lição de empreender com origem na medicina |
 
+### Série "Fazedores" (collab semanal com membros da Community)
+
+| Status | Formato | Gancho | Ideia |
+|---|---|---|---|
+| 🎬 | Reel collab | "Perguntei pra um fazedor o que ninguém fala sobre empreender." | Ep. 1 → plano 13/11 |
+| ⬜ | Reel collab | "Quanto custou o primeiro erro da sua empresa?" | Ep. com membro que tenha história de erro |
+| ⬜ | Reel collab | "Ele largou [carreira] pra empreender. Perguntei se valeu a pena." | Membro com mudança de carreira |
+| ⬜ | Reel corte | Frase forte de um encontro | Cortes de cada encontro da Community, em collab com @communityne |
+
 ## Pilar 3 — Boas escolhas (estilo minimalista)
 
 | Status | Formato | Gancho | Ideia |

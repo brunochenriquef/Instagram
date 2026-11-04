@@ -29,7 +29,10 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
 - Funciona: bastidores da Move, collabs, lições práticas, opinião, relatos da Community.
 - Não funciona: Reels de convite ("comente X").
 - **Lifestyle aspiracional ("Fazedores", "Last few days", "Back to") é parte da marca e fica.**
-  Ajuste: fazer em **Reels curtos** (modelo @moranofilippo), não só em carrossel de fotos.
+  Decisão (04/11): o lifestyle fica nos **Stories** e no **carrossel de domingo**. Reel de lifestyle
+  só como bônus, quando acontecer algo realmente aspiracional (São Luís ≠ Europa: não forçar).
+- **Collab é o formato que mais funciona.** Série fixa "Fazedores": 1 membro da Community por semana
+  (3 perguntas, post em collab). Cortes de encontros em collab com @communityne.
 - **Sem impulsionamento pago no perfil pessoal.** Tráfego pago só na Move.
 - Detalhes: `relatorios/2026-11-04-diagnostico-inicial.md`.
 
