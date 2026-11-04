@@ -2,15 +2,14 @@
 
 ## Perfis que o Bruno admira
 
-> Ainda não analisados com dados. O acesso ao instagram.com está bloqueado na sessão
-> na nuvem. Para analisar, mande prints ou links de posts, ou libere o domínio
-> (ver `guia-setup.md`).
+> Ainda não analisados. Assim que o Bruno adicionar os três como **concorrentes no
+> Metricool**, os posts e o engajamento deles ficam disponíveis para análise.
 
 | Perfil | O que observar / copiar a estrutura (não o conteúdo) |
 |---|---|
-| **Theo Braga** | Como mistura negócio e estilo de vida; formato dos Reels de fala; ganchos |
-| **Thales Gomes** | Tom de voz, narrativa de construção, como transforma bastidor em conteúdo |
-| **Guilherme Benchimol** | Autoridade de fundador: como conta a história da empresa, lições de longo prazo |
+| **Theo Braga** — @bragatheo | Como mistura negócio e estilo de vida; formato dos Reels de fala; ganchos |
+| **Tallis Gomes** — @tallisgomes | Tom de voz, narrativa de construção, como transforma bastidor em conteúdo |
+| **Guilherme Benchimol** — @guilhermebenchimol | Autoridade de fundador: como conta a história da empresa, lições de longo prazo |
 
 ### Roteiro de análise (para cada perfil)
 

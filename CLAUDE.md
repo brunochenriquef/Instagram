@@ -18,6 +18,15 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
   2. **A comunidade** — comunidade para **jovens empreendedores de 20 a 35 anos**.
 - **Marca pessoal:** bom gosto, boas escolhas, estilo minimalista, curadoria.
 
+## O que os dados mostram (04/11/2026)
+
+- Público: 75% entre 18 e 34 anos; **62% em São Luís** (perfil muito local).
+- Alcance dos Reels caiu de ~4,7k views (mar–mai) para ~1,7k (out); quem passa dos 3s caiu de 44% para 23%.
+- Funciona: bastidores da Move, collabs, lições práticas, opinião, relatos da Community.
+- Não funciona: Reels de convite ("comente X"), carrosséis de fotos com legenda genérica.
+- **Sem impulsionamento pago no perfil pessoal.** Tráfego pago só na Move.
+- Detalhes: `relatorios/2026-11-04-diagnostico-inicial.md`.
+
 ## Persona (rascunho — ainda em construção)
 
 O Bruno ainda não tem a persona definida. Hipótese de trabalho, a validar com dados:
@@ -51,7 +60,7 @@ Mix sugerido: 35% pilar 1 · 30% pilar 2 · 20% pilar 3 · 15% pilar 4.
 
 ## Referências que o Bruno admira
 
-Theo Braga, Thales Gomes, Guilherme Benchimol. Detalhes em `estrategia/referencias.md`.
+@bragatheo (Theo Braga), @tallisgomes (Tallis Gomes), @guilhermebenchimol. Detalhes em `estrategia/referencias.md`.
 
 ## Estrutura do repositório
 

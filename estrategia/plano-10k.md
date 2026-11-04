@@ -4,9 +4,10 @@
 **Meta:** 10.000 seguidores até **03/05/2027** → faltam **~8.333**
 **Ritmo médio:** ~1.390 seguidores/mês · ~46 por dia
 
-> 6 meses é agressivo para quem está em 1,6k. Dá para fazer, mas o ritmo atual
-> (2–3 Reels/semana, Stories como formato principal) **não** chega lá. O plano abaixo
-> aumenta volume de Reels, usa collabs toda semana e um pouco de impulsionamento pago.
+> 6 meses é agressivo: hoje o saldo é próximo de zero por dia (ver
+> `relatorios/2026-11-04-diagnostico-inicial.md`). Sem impulsionamento pago no perfil
+> pessoal (decisão do Bruno; tráfego pago fica só na Move), o crescimento depende de
+> ganchos melhores, mais volume de Reels e collabs toda semana.
 
 ## Marcos mensais (crescimento acelera com o tempo)
 
@@ -21,7 +22,9 @@
 
 Se no fim do mês 2 estivermos abaixo de 3.000, revisamos a estratégia (não o esforço).
 
-## Diagnóstico inicial (a confirmar com os dados do Metricool)
+## Diagnóstico inicial
+
+Dados completos em `relatorios/2026-11-04-diagnostico-inicial.md`.
 
 **Pontos fortes**
 - Frequência boa: Stories diários e Reels 2–3x/semana já é melhor que a média.
@@ -63,9 +66,8 @@ O mar e as embarcações são o **cenário** que te diferencia de outros perfis 
    voltar e seguir para ver o próximo.
 3. **Collab toda semana.** Ordem de prioridade: perfil da Move, membros da comunidade,
    donos de embarcação parceiros, marcas e lugares do litoral, outros criadores de 5k–50k.
-4. **Impulsionamento pago leve.** O Reel que mais trouxe seguidores na semana recebe um
-   impulsionamento pequeno (sugestão: R$ 20–50 por dia, por 3–5 dias), com público de
-   20–35 anos interessado em empreendedorismo e náutica. Orçamento a definir com o Bruno.
+4. **Ganchos primeiro.** A taxa de quem passa dos 3s caiu de 44% para 23%. Meta: voltar
+   a 40%+. Nada de Reel cujo tema seja um convite (Community/Move): o CTA vai no fim.
 5. **Reaproveitamento.** Reel que performar vira carrossel, e vice-versa. Ideia boa se
    usa 3 vezes.
 
@@ -93,7 +95,8 @@ O mar e as embarcações são o **cenário** que te diferencia de outros perfis 
 
 - [x] Prazo da meta: **6 meses** (03/05/2027)
 - [x] Conectar fonte de dados: **Metricool** ✅
-- [ ] Orçamento para impulsionamento
-- [ ] @ exatos de Theo Braga, Thales Gomes e Guilherme Benchimol (adicionar no Metricool)
+- [x] Impulsionamento: **não** no perfil pessoal (só tráfego pago da Move)
+- [x] @ das referências: @bragatheo, @tallisgomes, @guilhermebenchimol
+- [ ] Bruno adicionar as referências como concorrentes no Metricool
 - [ ] Revisar bio e destaques (otimização do perfil)
 - [ ] Confirmar nome da série fixa ("Diário da Move"?)
