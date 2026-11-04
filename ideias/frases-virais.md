@@ -1,42 +1,43 @@
-# Frases para estáticos (foco: alcance, identificação, repost)
+# Estáticos: frases sérias, reflexivas e profundas
 
-## O que faz uma frase ser compartilhada
+> Atualizado em 04/11. A primeira versão (humor e frases de "lição") foi descartada pelo Bruno.
 
-1. **Identificação na hora:** a pessoa pensa "isso sou eu" e manda pra alguém ou reposta.
-2. **Específica, não genérica:** "explicar pra família pela 47ª vez o que você faz" bate mais que "empreender é difícil".
-3. **Humor ou verdade incômoda.** Frase motivacional e bonita é ignorada.
-4. **Curta:** dá para ler em 2 segundos.
-5. **Público-alvo:** jovem de 20 a 35 que empreende ou quer empreender.
+## O padrão (das referências e do próprio Bruno)
 
-**Formato visual sugerido:** card no estilo post do Threads/X (sua foto + nome + @ + texto),
-fundo branco ou preto. É o formato de frase mais repostado hoje e ainda conecta com o que você
-já posta no Threads.
+| Post | Curtidas/alcance | Abertura |
+|---|---|---|
+| @alfredosoares | 47 mil curtidas | "Se alguém te prometer crescimento em 7 dias, desconfie. A gente levou 7 anos…" |
+| @alfredosoares | 17 mil curtidas | "Boleto todo mundo sabe que vai chegar. O que a maioria não está preparada para pagar é o preço das escolhas que fez antes dele." |
+| @alfredosoares | 9,8 mil curtidas | "A qualidade da sua vida depende da qualidade dos seus pensamentos…" |
+| @bragatheo | 7 mil curtidas | "Pague o preço e respeite o processo." |
+| @guilhermebenchimol | 23 mil curtidas | Conselhos que recebeu do Jorge Paulo Lemann |
+| **@brunochenriquef** | **1.677 de alcance** (seu melhor estático) | "Todo mundo quer a colheita. Pouca gente aceita o chão molhado que vem antes dela." |
 
-## Banco de frases (marque ✅ as que você aprovar)
+**Fórmula:**
+1. **Arte:** foto sua (P&B, espontânea: trabalhando, no mar, pensando) com **a frase de abertura** em
+   tipografia discreta. Ou fundo escuro só com a frase.
+2. **Frase de abertura:** uma tensão, uma verdade adulta. Séria, sem humor, sem tom de coach.
+3. **Legenda:** 4 a 8 parágrafos curtos, **com experiência pessoal real** (Move, Community, fé,
+   escolhas). Fecha com uma pergunta ou um versículo, como você já faz.
+4. **Métrica:** compartilhamentos e salvamentos.
 
-### Humor de quem empreende
-- [ ] "Seus amigos acham que você tá rico. Seu extrato acha engraçado."
-- [ ] "Pró-labore: aquele salário que todo empreendedor tem na planilha e nunca na conta."
-- [ ] "Empreender é explicar pra sua família, pela 47ª vez, o que você faz da vida."
-- [ ] "Férias de empreendedor: mesmo notebook, só que com vista pro mar."
-- [ ] "Eu: vou dormir cedo hoje. Também eu, 1h da manhã: e se a gente mudar o modelo de negócio?"
-- [ ] "Ser seu próprio chefe é ótimo até você perceber que o chefe não deixa você sair às 18h."
+## Banco de frases (marque ✅ as aprovadas)
 
-### Verdade incômoda
-- [ ] "Ninguém aplaude os anos em que você foi invisível."
-- [ ] "Todo mundo quer ser dono. Pouca gente quer ser o último a sair."
-- [ ] "Você não precisa de mais motivação. Precisa de menos opção."
-- [ ] "Aos 25 você ainda pode errar barato. Erra agora."
-- [ ] "Ninguém te avisa que a parte mais difícil de empreender é decidir sozinho."
-- [ ] "Tem gente que quer o resultado de quem trabalha no sábado, mas não quer trabalhar no sábado."
+### Escolhas e renúncia (sua marca)
+- [ ] "Ninguém vê o que você recusou pra chegar até aqui. Mas foi isso que te trouxe."
+- [ ] "Empreender é escolher, todos os dias, quais sonhos vão ficar pra depois."
+- [ ] "Você se torna a soma das decisões que toma quando ninguém está olhando."
 
-### Escolhas / estilo (sua marca pessoal)
-- [ ] "Bom gosto é saber dizer não pra quase tudo."
-- [ ] "A melhor reunião da semana foi a que eu cancelei."
-- [ ] "Cada vez que eu corto uma coisa da minha vida, ela melhora."
+### Construção e tempo
+- [ ] "Pressa é querer o resultado de dez anos com a paciência de dez dias."
+- [ ] "Legado não é o que você deixa quando vai embora. É o que você constrói enquanto ninguém aplaude."
+- [ ] "Toda empresa é, antes de tudo, o reflexo do caráter de quem a fundou."
 
-## Como vamos medir
+### O lado que ninguém mostra
+- [ ] "A solidão de quem decide não aparece no Instagram."
+- [ ] "Disciplina é lembrar do porquê quando a vontade já foi embora."
+- [ ] "Ser jovem não é desculpa pra ser raso."
 
-Para estático, a métrica principal é **compartilhamentos + reposts**, não curtidas.
-Depois de 4 a 6 estáticos, a rotina de segunda mostra qual tipo de frase (humor, verdade
-incômoda ou escolhas) gera mais compartilhamento, e a gente dobra nele.
+### Filosofia e fé
+- [ ] "Se você não sabe para qual porto navega, nenhum vento é favorável." — Sêneca
+- [ ] "Algumas portas fechadas são respostas, não derrotas."

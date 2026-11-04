@@ -36,11 +36,13 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
 - **Sem impulsionamento pago no perfil pessoal.** Tráfego pago só na Move.
 - **Ritmo (04/11):** começar leve. Reels por semana: 1 → 3 → 4 → 5. Formatos de entrada:
   estático com frase, Reel de fala (case, ponto de vista, **filosofia**: o Bruno gosta).
-- **Estático com frase = alcance.** Frases de identificação, humor ou verdade incômoda, feitas para repost
-  (não reflexão bonita). O Bruno não gostou de frases de "lição" do tipo "o mar não fica mais calmo".
-  Banco em `ideias/frases-virais.md`. Formato: card estilo post do Threads.
+- **Estáticos: tom sério, reflexivo e profundo** (decisão de 04/11). Frase de abertura forte + legenda
+  com experiência real (Move, Community, fé, escolhas), como os posts de feed de @alfredosoares e o
+  melhor estático do Bruno ("Todo mundo quer a colheita…"). **Nada de humor nem de frase de coach.**
+  O Bruno rejeitou "o mar não fica mais calmo…" e as frases de humor. Banco em `ideias/frases-virais.md`.
 - **Outros formatos do Bruno:** carrossel escrito (já testou e foi bem); Threads → Instagram
-  (posts do Threads viram card ou Reel).
+  (posts do Threads viram card ou Reel). O Bruno tem uma automação que traz o conteúdo
+  que ele posta no Threads (4x/semana); sugerido conectar o Threads ao Metricool.
 - **Temas do momento:** o Bruno recebe a cada 2 dias, de um agendamento no ChatGPT, uma lista
   de temas em alta (chega no app do ChatGPT, não por e-mail). Quando ele colar aqui, filtrar pelos pilares; um tema bom substitui o post do dia.
 - Detalhes: `relatorios/2026-11-04-diagnostico-inicial.md`.
