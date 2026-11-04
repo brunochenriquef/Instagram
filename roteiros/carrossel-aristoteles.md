@@ -1,32 +1,72 @@
-# Carrossel escrito — "5 ensinamentos de Aristóteles para quem empreende"
+# Carrossel — 5 ensinamentos de Aristóteles para quem empreende
 
-- **Formato:** carrossel escrito, 7 slides, sem você falando
-- **Pilar:** 2 — Empreender (filosofia aplicada)
-- **Objetivo:** salvamentos e compartilhamentos (carrossel com lista é o formato que mais gera salvamento)
-- **Série:** "5 ensinamentos de…" (próximos: Platão, Sêneca, Marco Aurélio, Epicteto)
-- **Data prevista:** semana de 16/11 (entra pela rotina de segunda)
+- **Data:** quarta, 04/11/2026 · **horário sugerido:** 18h30
+- **Formato:** carrossel escrito, 7 slides
+- **Pilar:** 2 — Empreender (filosofia aplicada) · **Objetivo:** salvamentos e compartilhamentos
+- **Série:** "5 ensinamentos de…" (próximo: Platão)
 
-**Visual:** mesmo padrão dos seus estáticos. Fundo escuro, tipografia serifada, 1 ideia por slide:
-o ensinamento em destaque e a aplicação em texto menor.
+---
 
-| Slide | Ensinamento (destaque) | Aplicação para hoje |
-|---|---|---|
-| 1 (capa) | **Aristóteles morreu há mais de 2.300 anos. E entendia de empreender mais que muito guru de hoje.** | — |
-| 2 | **"Tornamo-nos justos praticando atos justos."** (Ética a Nicômaco) | Ninguém vira empreendedor lendo sobre empreender. Você se torna fazendo. Repetindo. Errando e voltando. |
-| 3 | **Coragem é o meio-termo entre a covardia e a imprudência.** | Risco bem tomado não é apostar tudo sem pensar, nem travar esperando certeza. É agir com o que você sabe hoje. |
-| 4 | **Sabedoria prática (*phronesis*): saber o que fazer no caso concreto.** | Livro e curso ajudam. Mas decisão boa vem de repertório, e repertório vem de decidir muito. |
-| 5 | **Existem três tipos de amizade: por utilidade, por prazer e por virtude. Só a última dura.** | Sociedade e networking construídos só por interesse acabam quando o interesse acaba. |
-| 6 | **O todo é mais do que a soma das partes.** (Metafísica) | Um bom time, uma boa sociedade, uma boa comunidade constroem o que nenhum de vocês faria sozinho. |
-| 7 (CTA) | **Salva pra reler quando precisar decidir.** | Quer o de Platão na próxima? Comenta "PLATÃO". |
+## TEXTO PARA COLAR NO GERADOR
 
-**Legenda:**
-> Aristóteles nunca abriu uma empresa. Mas escreveu sobre hábito, coragem, decisão e
-> relações melhor do que quase todo mundo que veio depois.
->
-> Filosofia não é teoria pra quem tem tempo sobrando. É manual pra quem precisa decidir bem.
->
-> Qual desses ensinamentos você mais precisava ouvir hoje?
+**SLIDE 1 — CAPA**
+Título: Aristóteles morreu há mais de 2.300 anos.
+Subtítulo: E entendia de empreender mais do que muito guru de hoje.
 
-**Checagem de fontes:** as frases dos slides 2, 3 e 5 são da *Ética a Nicômaco* (livros II e VIII).
-O slide 6 resume uma ideia da *Metafísica* (livro VIII). **Não use** "Somos o que fazemos
-repetidamente…": essa frase é de Will Durant resumindo Aristóteles, não do próprio Aristóteles.
+**SLIDE 2**
+Título: 1. Você se torna aquilo que pratica.
+Citação: "Tornamo-nos justos praticando atos justos."
+Texto: Ninguém vira empreendedor lendo sobre empreender. Você se torna fazendo. Repetindo. Errando e voltando no dia seguinte.
+
+**SLIDE 3**
+Título: 2. Coragem não é ausência de medo.
+Citação: A coragem é o meio-termo entre a covardia e a imprudência.
+Texto: Risco bem tomado não é apostar tudo sem pensar. Também não é travar esperando certeza. É agir com o que você sabe hoje e ajustar no caminho.
+
+**SLIDE 4**
+Título: 3. Saber não é o mesmo que saber decidir.
+Citação: Aristóteles chamava isso de phronesis: a sabedoria prática.
+Texto: Livro e curso ajudam. Mas decisão boa vem de repertório. E repertório só vem de decidir muito, inclusive errado.
+
+**SLIDE 5**
+Título: 4. Nem toda relação foi feita pra durar.
+Citação: Existem três tipos de amizade: por utilidade, por prazer e por virtude. Só a última permanece.
+Texto: Sociedade e networking construídos só por interesse acabam quando o interesse acaba. Escolha bem com quem você constrói.
+
+**SLIDE 6**
+Título: 5. Ninguém constrói nada grande sozinho.
+Citação: O todo é mais do que a soma das partes.
+Texto: Um bom time, uma boa sociedade, uma boa comunidade constroem o que nenhum de vocês faria sozinho.
+
+**SLIDE 7 — FECHAMENTO**
+Título: Filosofia não é teoria pra quem tem tempo sobrando.
+Subtítulo: É manual pra quem precisa decidir bem.
+CTA: Salva pra reler quando precisar. E comenta "PLATÃO" se quer o próximo.
+
+---
+
+## LEGENDA
+
+Aristóteles nunca abriu uma empresa.
+
+Mas escreveu sobre hábito, coragem, decisão e relações melhor do que quase todo mundo que veio depois.
+
+Quanto mais eu construo a Move e a Community, mais percebo que os problemas de hoje são antigos. Só mudaram de roupa.
+
+Qual desses ensinamentos você mais precisava ouvir hoje?
+
+---
+
+## Checklist antes de postar
+
+- [ ] Capa forte: a frase do slide 1 é o que faz a pessoa arrastar para o lado
+- [ ] 1 ideia por slide, com título em destaque e texto menor
+- [ ] Repostar nos Stories 1h depois ("novo post 👀")
+- [ ] Responder os comentários na 1ª hora (quem comentar "PLATÃO" recebe resposta)
+
+## Fontes (para não errar citação)
+
+- Slides 2, 3 e 5: *Ética a Nicômaco* (livros II e VIII)
+- Slide 4: *Ética a Nicômaco* (livro VI), conceito de *phronesis*
+- Slide 6: ideia da *Metafísica* (livro VIII), aqui resumida
+- **Não usar** "Somos o que fazemos repetidamente…": é de Will Durant resumindo Aristóteles.
