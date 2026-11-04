@@ -55,3 +55,19 @@
 **Próximo passo de lapidação:** quando os dados do Threads chegarem no Metricool, usar os posts
 dele que mais performaram como referência de voz. As melhores frases vão sair da forma como ele
 mesmo escreve.
+
+## A voz do Bruno (dos posts do Threads que mais performaram)
+
+Análise completa: `relatorios/2026-11-04-threads.md`.
+
+- Abre com **cena de filme ou fato concreto** ("Tem uma cena de Rocky que…").
+- Frases curtas, uma ideia por linha. Vira para a vida com "Acho que a gente…".
+- Fecha com conclusão seca, sem CTA forçado. Humildade: "e eu me incluo nisso".
+
+**Frases já testadas (do Threads) para virar estático:**
+- [x] "Impressionante como a gente consegue defender com tanta certeza coisas que nunca estudou de verdade. E eu me incluo nisso." → Sex 06/11
+- [ ] "Acho que a gente superestima a confiança. Tem decisões na vida que você precisa tomar sem ter certeza de absolutamente nada." (Rocky)
+- [ ] "Às vezes, o que te faz continuar não é tua força. São as pessoas que permanecem contigo quando ela acaba." (Frodo e Sam)
+- [ ] "Movimento não é necessariamente progresso. O que realmente andou hoje?"
+- [ ] "Tem ambiente que não te ensina nada diretamente. Só muda tua régua."
+- [ ] "Se toda decisão depende de você, talvez você não tenha construído uma empresa. Construiu um emprego extremamente complexo para si mesmo."

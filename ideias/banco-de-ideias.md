@@ -100,6 +100,15 @@ Legenda de status: ⬜ não usada · 🎬 roteirizada · ✅ postada
 | ⬜ | **Epicteto** | O que depende e o que não depende de você |
 | ⬜ | **Marco Aurélio** | Obstáculo como caminho, disciplina, liderança |
 
+### Série "Cenas que me ensinaram" (Reel de fala; assinatura do Bruno no Threads)
+
+| Status | Cena | Origem |
+|---|---|---|
+| 🎬 | O Show de Truman: a porta | Threads 26/10 (865 views) → Ter 10/11 |
+| ⬜ | Rocky: não precisava acreditar que venceria pra tentar | Threads 01/11 (645 views) |
+| ⬜ | Frodo e Sam no Monte da Perdição | Threads 11/10 |
+| ⬜ | Nolan: liberdade se conquista entrega após entrega | Threads 07/10 |
+
 ## Pilar 3 — Boas escolhas (estilo minimalista)
 
 | Status | Formato | Gancho | Ideia |

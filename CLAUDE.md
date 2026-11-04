@@ -45,7 +45,11 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
   Sempre checar a fonte das citações (ex.: "Somos o que fazemos repetidamente" é de Will Durant, não de Aristóteles).
 - **Outros formatos do Bruno:** carrossel escrito (já testou e foi bem); Threads → Instagram
   (posts do Threads viram card ou Reel). O Bruno tem uma automação que traz o conteúdo
-  que ele posta no Threads (4x/semana); **Threads conectado ao Metricool em 04/11** (dados ainda importando).
+  que ele posta no Threads (4x/semana); **Threads conectado ao Metricool em 04/11** (154 seguidores). Análise: `relatorios/2026-11-04-threads.md`.
+- **A voz do Bruno (Threads):** reflexões a partir de **cenas de filme** (Truman, Rocky, Senhor dos Anéis, Nolan)
+  são a assinatura dele e os posts que mais performam, junto com autocrítica intelectual ("e eu me incluo nisso").
+  Frases curtas, abre com cena/fato concreto, fecha com conclusão seca. Usar como base de todas as frases.
+  Série "Cenas que me ensinaram" (Reel de fala; nunca usar trecho do filme).
 - **ALCANCE é prioridade (04/11).** O conteúdo de tese/autoridade não traz público novo. Priorizar
   **resultado com número, promessa e história de virada** (ex.: "Em 6 meses, do zero aos 6 dígitos":
   a Move passou dos 6 dígitos de faturamento, segundo o Bruno; confirmar detalhes antes de usar).
