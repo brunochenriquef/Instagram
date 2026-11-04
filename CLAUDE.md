@@ -73,6 +73,8 @@ Concorrentes no Metricool: @bragatheo, @tallisgomes, @guilhermebenchimol, @alfre
 
 - `estrategia/` — plano rumo aos 10k, referências, posicionamento
 - `ideias/` — banco de ideias (sempre adicionar, nunca apagar; marcar o que já foi usado)
+- `plano/` — plano detalhado da semana (calendário dia a dia + roteiros). Gerado toda segunda
+  pela rotina automática (segunda 8h40, horário de São Luís)
 - `roteiros/` — roteiros prontos para gravar (um arquivo por conteúdo)
 - `relatorios/` — relatório semanal de métricas (`AAAA-MM-DD.md`)
 - `guia-setup.md` — passo a passo de plugins, conectores e acessos
