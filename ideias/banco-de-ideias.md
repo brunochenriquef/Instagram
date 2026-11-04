@@ -57,11 +57,26 @@ Legenda de status: ⬜ não usada · 🎬 roteirizada · ✅ postada
 
 | Status | Formato | Frase / gancho | Ideia |
 |---|---|---|---|
-| 🎬 | Estático | Sêneca: "Não é que temos pouco tempo. É que desperdiçamos muito." | Plano 06/11 |
-| 🎬 | Estático | Marco Aurélio: "O que está no caminho se torna o caminho." | Plano 11/11 |
+| 🎬 | Carrossel escrito | "Filósofos que morreram há 2 mil anos entendiam mais de empreender que muito guru de hoje." | Plano 11/11 (Epicteto, Sêneca, Marco Aurélio) |
 | ⬜ | Reel | "Epicteto era escravo. E escreveu o melhor manual de liberdade que eu já li." | O que está e o que não está sob seu controle, aplicado a empreender |
 | ⬜ | Estático | Sêneca: "Sofremos mais na imaginação do que na realidade." | Ansiedade de quem empreende |
 | ⬜ | Reel ponto de vista | "Ter menos opções me fez decidir melhor." | Essencialismo / minimalismo (pilar 3) |
+
+### Carrossel escrito (texto, sem você falando)
+
+| Status | Gancho da capa | Ideia |
+|---|---|---|
+| ⬜ | "O que o Airbnb me ensinou sobre construir a Move" | Versão em carrossel do Reel de case (reaproveitamento) |
+| ⬜ | "7 coisas que eu faria diferente se começasse a empreender hoje" | Lista pessoal, alto potencial de salvamento |
+| ⬜ | "Os 5 livros que mais mudaram como eu tomo decisões" | Curadoria (pilar 3) |
+| ⬜ | "Sociedade com amigo: 6 perguntas pra fazer antes de assinar" | Seu Reel "Sociedade com amigos" teve 3k views |
+
+### Threads → Instagram
+
+| Status | Formato | Ideia |
+|---|---|---|
+| ⬜ | Estático (print do post) | Seus posts do Threads com mais engajamento viram card estilo Threads no Insta |
+| ⬜ | Reel de fala | Post do Threads que gerou discussão vira Reel com você falando a ideia |
 
 ## Pilar 3 — Boas escolhas (estilo minimalista)
 

@@ -36,8 +36,13 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
 - **Sem impulsionamento pago no perfil pessoal.** Tráfego pago só na Move.
 - **Ritmo (04/11):** começar leve. Reels por semana: 1 → 3 → 4 → 5. Formatos de entrada:
   estático com frase, Reel de fala (case, ponto de vista, **filosofia**: o Bruno gosta).
+- **Estático com frase = alcance.** Frases de identificação, humor ou verdade incômoda, feitas para repost
+  (não reflexão bonita). O Bruno não gostou de frases de "lição" do tipo "o mar não fica mais calmo".
+  Banco em `ideias/frases-virais.md`. Formato: card estilo post do Threads.
+- **Outros formatos do Bruno:** carrossel escrito (já testou e foi bem); Threads → Instagram
+  (posts do Threads viram card ou Reel).
 - **Temas do momento:** o Bruno recebe a cada 2 dias, de um agendamento no ChatGPT, uma lista
-  de temas em alta. Quando ele colar aqui, filtrar pelos pilares; um tema bom substitui o post do dia.
+  de temas em alta (chega no app do ChatGPT, não por e-mail). Quando ele colar aqui, filtrar pelos pilares; um tema bom substitui o post do dia.
 - Detalhes: `relatorios/2026-11-04-diagnostico-inicial.md`.
 
 ## Persona (rascunho — ainda em construção)
