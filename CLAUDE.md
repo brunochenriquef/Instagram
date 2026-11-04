@@ -34,6 +34,10 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
 - **Collab é o formato que mais funciona.** Série fixa "Fazedores": 1 membro da Community por semana
   (3 perguntas, post em collab). Cortes de encontros em collab com @communityne.
 - **Sem impulsionamento pago no perfil pessoal.** Tráfego pago só na Move.
+- **Ritmo (04/11):** começar leve. Reels por semana: 1 → 3 → 4 → 5. Formatos de entrada:
+  estático com frase, Reel de fala (case, ponto de vista, **filosofia**: o Bruno gosta).
+- **Temas do momento:** o Bruno recebe a cada 2 dias, de um agendamento no ChatGPT, uma lista
+  de temas em alta. Quando ele colar aqui, filtrar pelos pilares; um tema bom substitui o post do dia.
 - Detalhes: `relatorios/2026-11-04-diagnostico-inicial.md`.
 
 ## Persona (rascunho — ainda em construção)

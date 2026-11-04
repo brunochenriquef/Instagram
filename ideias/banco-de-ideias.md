@@ -53,6 +53,16 @@ Legenda de status: ⬜ não usada · 🎬 roteirizada · ✅ postada
 | ⬜ | Reel collab | "Ele largou [carreira] pra empreender. Perguntei se valeu a pena." | Membro com mudança de carreira |
 | ⬜ | Reel corte | Frase forte de um encontro | Cortes de cada encontro da Community, em collab com @communityne |
 
+### Filosofia (estático com frase ou Reel de ponto de vista)
+
+| Status | Formato | Frase / gancho | Ideia |
+|---|---|---|---|
+| 🎬 | Estático | Sêneca: "Não é que temos pouco tempo. É que desperdiçamos muito." | Plano 06/11 |
+| 🎬 | Estático | Marco Aurélio: "O que está no caminho se torna o caminho." | Plano 11/11 |
+| ⬜ | Reel | "Epicteto era escravo. E escreveu o melhor manual de liberdade que eu já li." | O que está e o que não está sob seu controle, aplicado a empreender |
+| ⬜ | Estático | Sêneca: "Sofremos mais na imaginação do que na realidade." | Ansiedade de quem empreende |
+| ⬜ | Reel ponto de vista | "Ter menos opções me fez decidir melhor." | Essencialismo / minimalismo (pilar 3) |
+
 ## Pilar 3 — Boas escolhas (estilo minimalista)
 
 | Status | Formato | Gancho | Ideia |
