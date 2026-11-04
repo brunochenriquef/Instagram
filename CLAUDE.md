@@ -18,7 +18,8 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
   2. **A comunidade** — comunidade para **jovens empreendedores de 20 a 35 anos**.
 - **Marca pessoal:** bom gosto, boas escolhas, estilo minimalista, curadoria, lifestyle aspiracional.
 - **Palavra da marca:** "Fazedores. Feito de quem faz, para quem faz."
-- **Também é interno de Medicina** (está na bio). Diferencial a explorar, se o Bruno quiser.
+- **Também é interno de Medicina** (está na bio). Decisão (04/11): **não é pilar**. Entra como
+  tempero, 1–2x/mês: contexto em "um dia na vida", bastidor, ou gancho. Nada de conteúdo de saúde.
 - Análise da bio: `estrategia/perfil-bio.md`.
 
 ## O que os dados mostram (04/11/2026)
@@ -51,7 +52,7 @@ Atualize esta seção quando a persona for validada.
 | # | Pilar | Papel no funil | Exemplos |
 |---|---|---|---|
 | 1 | **Construindo a Move** (bastidores, mercado náutico, marketplace) | Autoridade + vendas Move | Como funciona alugar uma lancha, números, erros, decisões |
-| 2 | **Empreender jovem** (lições, comunidade) | Alcance + comunidade | Lições práticas, eventos, membros, opinião |
+| 2 | **Empreender jovem** (lições, comunidade, **análise de case**) | Alcance + comunidade | Lições práticas, eventos, membros, opinião, cases de marcas/negócios |
 | 3 | **Boas escolhas** (estilo minimalista, curadoria) | Diferenciação / marca pessoal | Rotina, lugares, objetos, "menos é mais" |
 | 4 | **Vida no mar** (experiências, lifestyle) | Alcance (conteúdo aspiracional) | Passeios, destinos, pôr do sol com contexto |
 

@@ -25,6 +25,25 @@ Legenda de status: ⬜ não usada · 🎬 roteirizada · ✅ postada
 | ⬜ | Carrossel | "Os 7 livros que mudaram como eu tomo decisões" | Salvável, conecta com "boas escolhas" |
 | ⬜ | Reel | "A decisão mais difícil que eu tomei esse ano." | Narrativa pessoal |
 
+### Análise de case (formato novo)
+
+> Regra: confirmar todo número de case em fonte confiável antes de gravar.
+
+| Status | Formato | Gancho | Ideia |
+|---|---|---|---|
+| ⬜ | Reel | "O Airbnb não tem nenhum imóvel. E vale mais que muita rede de hotel." | Por que marketplaces não precisam ter o ativo (ponte com a Move) |
+| ⬜ | Reel | "Por que o Ritz-Carlton deixa o funcionário gastar dinheiro sem pedir autorização." | Experiência premium como estratégia (já falou do Ritz e foi bem) |
+| ⬜ | Carrossel | "3 marcas que venderam experiência, não produto" | Lifestyle + negócio, salvável |
+| ⬜ | Reel | "A Uber não inventou o carro. Inventou a confiança entre estranhos." | Confiança como produto de marketplace |
+
+### Medicina como tempero (1–2x por mês, nunca como tema)
+
+| Status | Formato | Gancho | Ideia |
+|---|---|---|---|
+| ⬜ | Reel | "Faço medicina e toco duas empresas. A pergunta que mais me fazem é como." | Rotina e prioridades (vlog curto) |
+| ⬜ | Reel | "Saí do plantão e fui direto pra reunião da Move." | Um dia na vida de um Fazedor |
+| ⬜ | Reel | "O que o hospital me ensinou sobre tomar decisão sob pressão." | Lição de empreender com origem na medicina |
+
 ## Pilar 3 — Boas escolhas (estilo minimalista)
 
 | Status | Formato | Gancho | Ideia |
