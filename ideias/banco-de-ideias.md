@@ -39,11 +39,13 @@ Legenda de status: ⬜ não usada · 🎬 roteirizada · ✅ postada
 
 ### Análise de case (formato novo)
 
+- 🎬 Palantir (05/11): de CIA a empresas → `roteiros/2026-11-05-palantir.md`
+
 > Regra: confirmar todo número de case em fonte confiável antes de gravar.
 
 | Status | Formato | Gancho | Ideia |
 |---|---|---|---|
-| ⬜ | Reel | "O Airbnb não tem nenhum imóvel. E vale mais que muita rede de hotel." | Por que marketplaces não precisam ter o ativo (ponte com a Move) |
+| ⬜ | Reel | "O Airbnb não tem nenhum imóvel. E vale mais que muita rede de hotel." (adiado: Bruno fez vídeo parecido recentemente; roteiro em plano/2026-11-05-a-15.md, versão anterior) | Por que marketplaces não precisam ter o ativo (ponte com a Move) |
 | ⬜ | Reel | "Por que o Ritz-Carlton deixa o funcionário gastar dinheiro sem pedir autorização." | Experiência premium como estratégia (já falou do Ritz e foi bem) |
 | ⬜ | Carrossel | "3 marcas que venderam experiência, não produto" | Lifestyle + negócio, salvável |
 | ⬜ | Reel | "A Uber não inventou o carro. Inventou a confiança entre estranhos." | Confiança como produto de marketplace |
