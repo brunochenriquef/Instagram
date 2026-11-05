@@ -26,6 +26,19 @@ Legenda de status: ⬜ não usada · 🎬 roteirizada · ✅ postada
 | ⬜ | Reel | "O que eu faria com R$ 10 mil pra começar um negócio hoje." | Assunto amplo, fora do nicho |
 | ⬜ | Carrossel | "6 meses de Move em números" | Resultados reais em slides (pedir números) |
 
+### Carrossel lifestyle da Move (no perfil pessoal, em collab com @movexperiences)
+
+Regra: a capa e o meio entregam experiência ou informação útil; a Move aparece no fim como
+"como fazer". Nunca carrossel de anúncio. Frequência: 1 a cada 2 semanas.
+
+| Status | Capa (gancho) | Estrutura |
+|---|---|---|
+| ⬜ | "5 jeitos de viver São Luís que quase ninguém conhece" | Guia local com fotos; 1–2 itens são experiências da Move |
+| ⬜ | "Quanto custa um dia de lancha dividido entre amigos" | Quebra de mito com conta real por pessoa (pedir valores reais) |
+| ⬜ | "O que ninguém te conta antes de alugar um barco pela 1ª vez" | Checklist útil; a Move resolve os pontos no último slide |
+| ⬜ | "Troquei [programa caro de sempre] por um dia no mar" | Boas escolhas + lifestyle, comparação honesta |
+| ⬜ | "Como um passeio da Move acontece, do pedido ao pôr do sol" | Bastidor em fotos: confiança e segurança |
+
 ## Pilar 2 — Empreender jovem / comunidade
 
 | Status | Formato | Gancho | Ideia |

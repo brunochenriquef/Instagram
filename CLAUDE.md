@@ -53,6 +53,9 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
 - **ALCANCE é prioridade (04/11).** O conteúdo de tese/autoridade não traz público novo. Priorizar
   **resultado com número, promessa e história de virada** (ex.: "Em 6 meses, do zero aos 6 dígitos":
   a Move passou dos 6 dígitos de faturamento, segundo o Bruno; confirmar detalhes antes de usar).
+- **Carrossel lifestyle da Move no perfil pessoal (ideia do Bruno, 05/11):** fotos bonitas + experiência
+  ou informação útil, com a Move no fim como "como fazer". Postar em collab com @movexperiences,
+  1 a cada 2 semanas. Medir com cupom ou código próprio (ex.: FAZEDORES) para saber quantas reservas vieram.
 - **Ritmo fixo da semana:** sábado = Reel de papo descontraído (carro, café, boné pra trás) com assunto
   de alcance; domingo = só Stories e feed de lifestyle.
 - **Temas do momento:** o Bruno recebe a cada 2 dias, de um agendamento no ChatGPT, uma lista
