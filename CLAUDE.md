@@ -105,6 +105,13 @@ Concorrentes no Metricool: @bragatheo, @tallisgomes, @guilhermebenchimol, @alfre
 - `relatorios/` — relatório semanal de métricas (`AAAA-MM-DD.md`)
 - `guia-setup.md` — passo a passo de plugins, conectores e acessos
 
+## Divisão de trabalho (decisão de 05/11)
+
+- **O Bruno escreve os roteiros em outra IA**, que já tem a identidade visual dele.
+- **O Claude entrega:** estratégia, pauta do dia (tema + formato + **gancho**), **fatos conferidos com
+  fonte**, embasamento com dados (por que esse post, alcance esperado) e a análise de desempenho.
+- Roteiro completo só quando o Bruno pedir. Exceção: texto de carrossel pronto para colar, quando pedido.
+
 ## Regras para o Claude
 
 1. Todo roteiro de Reels começa com um **gancho de até 3 segundos** e termina com um CTA claro
