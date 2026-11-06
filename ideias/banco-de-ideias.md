@@ -18,7 +18,7 @@ Legenda de status: ⬜ não usada · 🎬 roteirizada · ✅ postada
 
 | Status | Formato | Gancho | Ideia |
 |---|---|---|---|
-| 🎬 | Reel descontraído | "Em 6 meses, a Move saiu do zero e passou dos 6 dígitos." | Sáb 07/11 → `roteiros/2026-11-07-zero-aos-6-digitos.md` |
+| ⬜ | Reel descontraído | "Em 6 meses, a Move saiu do zero e passou dos 6 dígitos." | Adiado (faltam números) → `roteiros/2026-11-07-zero-aos-6-digitos.md` |
 | 🎬 | Reel descontraído | "Apresentei a Move pra 10 fundos de venture capital. Foi isso que ouvi." | Sáb 14/11 |
 | ⬜ | Reel | "Faço medicina e a empresa que eu fundei passou dos 6 dígitos em 6 meses." | Variação com a medicina como gancho |
 | ⬜ | Reel | "Quanto custou tirar a Move do papel." | Custos reais (pedir números ao Bruno) |
