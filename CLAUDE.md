@@ -56,6 +56,12 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
 - **Carrossel lifestyle da Move no perfil pessoal (ideia do Bruno, 05/11):** fotos bonitas + experiência
   ou informação útil, com a Move no fim como "como fazer". Postar em collab com @movexperiences,
   1 a cada 2 semanas. Medir com cupom ou código próprio (ex.: FAZEDORES) para saber quantas reservas vieram.
+- **LinkedIn:** o Bruno também posta lá. Versões longas e mais profundas (ex.: Alexandre, o Grande, 06/11).
+  Fluxo bom: tese longa no Threads/LinkedIn → ver o que performa → versão em Reel no Instagram.
+- **Vídeo montado por IA: em espera.** O Bruno prefere o carrossel feito por ele (diferencia, já que
+  muita gente usa vídeo de IA). O Claude consegue montar vídeo com ffmpeg a partir de fotos/takes dele, se pedir.
+- **Resultado 1º post do plano (Aristóteles, 04/11):** 355 de alcance, 0 salvamentos, 0 seguidores.
+  Série "5 ensinamentos" pausada em carrossel; testar filosofia/história em Reel falado com analogia.
 - **Ritmo fixo da semana:** sábado = Reel de papo descontraído (carro, café, boné pra trás) com assunto
   de alcance; domingo = só Stories e feed de lifestyle.
 - **Temas do momento:** o Bruno recebe a cada 2 dias, de um agendamento no ChatGPT, uma lista

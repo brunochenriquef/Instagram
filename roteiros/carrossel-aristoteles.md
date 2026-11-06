@@ -70,3 +70,23 @@ Qual desses ensinamentos você mais precisava ouvir hoje?
 - Slide 4: *Ética a Nicômaco* (livro VI), conceito de *phronesis*
 - Slide 6: ideia da *Metafísica* (livro VIII), aqui resumida
 - **Não usar** "Somos o que fazemos repetidamente…": é de Will Durant resumindo Aristóteles.
+
+---
+
+## Depois de postar (leitura de ~36h, 06/11)
+
+Postado em **04/11 às 21h30** (o plano sugeria 18h30).
+
+| Métrica | Resultado | Esperado / média |
+|---|---|---|
+| Visualizações | 772 | — |
+| Alcance | **355** | 1–2k esperado · média dos seus carrosséis: 450–800 |
+| Curtidas | 4 | — |
+| Comentários | 0 (ninguém comentou "PLATÃO") | — |
+| Salvamentos | 0 | — |
+| Seguidores ganhos | 0 | — |
+
+**Leitura:** abaixo do esperado e da sua média. Hipóteses: horário (21h30), filosofia "pura" sem
+história pessoal na capa, e público local que responde mais a bastidor e resultado.
+**Decisão:** pausar a série "5 ensinamentos" em carrossel. Testar filosofia/história em **Reel
+falado com analogia** (Alexandre, o Grande, em 09/11) antes de voltar ao formato.
