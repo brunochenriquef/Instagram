@@ -62,6 +62,8 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
   muita gente usa vídeo de IA). O Claude consegue montar vídeo com ffmpeg a partir de fotos/takes dele, se pedir.
 - **Resultado 1º post do plano (Aristóteles, 04/11):** 355 de alcance, 0 salvamentos, 0 seguidores.
   Série "5 ensinamentos" pausada em carrossel; testar filosofia/história em Reel falado com analogia.
+- **Videomaker:** o Bruno tem um. 1ª gravação em lote: ter 10/11 (6 dígitos, 10 VCs, bastidor na marina).
+  Briefing em `roteiros/2026-11-10-gravacao-videomaker.md`.
 - **Ritmo fixo da semana:** sábado = Reel de papo descontraído (carro, café, boné pra trás) com assunto
   de alcance; domingo = só Stories e feed de lifestyle.
 - **Temas do momento:** o Bruno recebe a cada 2 dias, de um agendamento no ChatGPT, uma lista
