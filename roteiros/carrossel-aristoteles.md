@@ -90,3 +90,5 @@ Postado em **04/11 às 21h30** (o plano sugeria 18h30).
 história pessoal na capa, e público local que responde mais a bastidor e resultado.
 **Decisão:** pausar a série "5 ensinamentos" em carrossel. Testar filosofia/história em **Reel
 falado com analogia** (Alexandre, o Grande, em 09/11) antes de voltar ao formato.
+
+**Atualização 07/11:** alcance subiu para 579 (1.179 views), dentro da média dos seus carrosséis (450–800). Ainda 0 salvamentos e 0 seguidores. A decisão de pausar a série em carrossel continua, mas o formato não fracassou: só não superou a média.
