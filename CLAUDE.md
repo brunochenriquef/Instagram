@@ -52,7 +52,11 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
   Série "Cenas que me ensinaram" (Reel de fala; nunca usar trecho do filme).
 - **ALCANCE é prioridade (04/11).** O conteúdo de tese/autoridade não traz público novo. Priorizar
   **resultado com número, promessa e história de virada** (ex.: "Em 6 meses, do zero aos 6 dígitos":
-  a Move passou dos 6 dígitos de faturamento, segundo o Bruno; confirmar detalhes antes de usar).
+  a Move passou de **R$ 100 mil de faturamento em 6 meses**, confirmado pelo Bruno em 09/11. No conteúdo, falar de forma
+  implícita: "passou dos 6 dígitos em 6 meses", sem número exato).
+- **Dados da Move no Drive do Bruno:** pasta `MOVE_Pacote_Entregas_Inteli` (pitch deck, painel, mercado). Números
+  públicos do deck podem ir para conteúdo (ex.: dono usa o barco 3 de 52 fins de semana; manutenção 8–15% do valor
+  por ano). **Valuation, nº de clientes e pipeline de investidores são internos: nunca usar em post.**
 - **Carrossel lifestyle da Move no perfil pessoal (ideia do Bruno, 05/11):** fotos bonitas + experiência
   ou informação útil, com a Move no fim como "como fazer". Postar em collab com @movexperiences,
   1 a cada 2 semanas. Medir com cupom ou código próprio (ex.: FAZEDORES) para saber quantas reservas vieram.
@@ -67,6 +71,8 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
 - **🏆 Melhor post da 1ª semana (06/11):** carrossel da Move "O novo luxo talvez não esteja em possuir mais.
   Esteja em acessar melhor." → 2.044 de alcance, 4.207 views, +9 seguidores no dia. A tese **acesso > posse**
   une marca pessoal e Move sem parecer anúncio. Repetir a linha (série "O novo luxo…").
+- **Lifestyle/pessoal gera relacionamento:** carrossel "Tudo até aqui já foi um sonho!" (08/11): 77 curtidas e
+  21 comentários (maior engajamento do mês), alcance 643. Mantém a base engajada; o alcance vem da Move e dos Reels.
 - **Videomaker:** o Bruno tem um. 1ª gravação em lote: ter 10/11 (6 dígitos, 10 VCs, bastidor na marina).
   Briefing em `roteiros/2026-11-10-gravacao-videomaker.md`.
 - **Ritmo fixo da semana:** sábado = Reel de papo descontraído (carro, café, boné pra trás) com assunto
