@@ -64,6 +64,9 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
   Série "5 ensinamentos" pausada em carrossel; testar filosofia/história em Reel falado com analogia.
 - **Reaproveitamento (estratégia do Bruno, 06/11):** frase forte de um Reel/post que performou vira estático.
   Levantamento em `ideias/frases-dos-seus-conteudos.md` (só legendas e Threads; o Metricool não traz o áudio).
+- **🏆 Melhor post da 1ª semana (06/11):** carrossel da Move "O novo luxo talvez não esteja em possuir mais.
+  Esteja em acessar melhor." → 2.044 de alcance, 4.207 views, +9 seguidores no dia. A tese **acesso > posse**
+  une marca pessoal e Move sem parecer anúncio. Repetir a linha (série "O novo luxo…").
 - **Videomaker:** o Bruno tem um. 1ª gravação em lote: ter 10/11 (6 dígitos, 10 VCs, bastidor na marina).
   Briefing em `roteiros/2026-11-10-gravacao-videomaker.md`.
 - **Ritmo fixo da semana:** sábado = Reel de papo descontraído (carro, café, boné pra trás) com assunto

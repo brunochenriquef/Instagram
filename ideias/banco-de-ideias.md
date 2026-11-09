@@ -28,6 +28,10 @@ Legenda de status: ⬜ não usada · 🎬 roteirizada · ✅ postada
 
 ### Carrossel lifestyle da Move (no perfil pessoal, em collab com @movexperiences)
 
+- ✅ 06/11 "O novo luxo talvez não esteja em possuir mais. Esteja em acessar melhor." → **2.044 de alcance, melhor post de feed em meses**
+- 🎬 Qua 11/11: "Possuir × acessar" (precisa de números reais dos donos de barco)
+- ⬜ "O novo luxo é tempo" / "O novo luxo é experiência" (série "O novo luxo…")
+
 Regra: a capa e o meio entregam experiência ou informação útil; a Move aparece no fim como
 "como fazer". Nunca carrossel de anúncio. Frequência: 1 a cada 2 semanas.
 
@@ -119,6 +123,7 @@ Regra: a capa e o meio entregam experiência ou informação útil; a Move apare
 
 | Status | Cena | Origem |
 |---|---|---|
+| 🎬 | Sociedade dos Poetas Mortos: Keating sobe na mesa | Threads 08/11 (367 views) → Sex 13/11 |
 | 🎬 | O Show de Truman: a porta | Threads 26/10 (865 views) → Ter 10/11 |
 | ⬜ | Rocky: não precisava acreditar que venceria pra tentar | Threads 01/11 (645 views) |
 | ⬜ | Frodo e Sam no Monte da Perdição | Threads 11/10 |
