@@ -73,6 +73,10 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
   une marca pessoal e Move sem parecer anúncio. Repetir a linha (série "O novo luxo…").
 - **Lifestyle/pessoal gera relacionamento:** carrossel "Tudo até aqui já foi um sonho!" (08/11): 77 curtidas e
   21 comentários (maior engajamento do mês), alcance 643. Mantém a base engajada; o alcance vem da Move e dos Reels.
+- **Análise de concorrentes (10/11):** os maiores picos fora da política são **uma ideia só, curta e universal**
+  (Benchimol "grãos de areia" 54k; Theo "Atenção é a moeda mais valiosa" 5,7k ≈ 60× a mediana dele) e
+  **reconhecer pessoas pelo nome** (Alfredo). Detalhes e adaptações: `estrategia/analise-concorrentes-2026-11.md`.
+  Limite: o Metricool traz legenda e curtidas dos concorrentes, não o vídeo nem as views.
 - **Videomaker:** o Bruno tem um. 1ª gravação em lote: ter 10/11 (6 dígitos, 10 VCs, bastidor na marina).
   Briefing em `roteiros/2026-11-10-gravacao-videomaker.md`.
 - **Ritmo fixo da semana:** sábado = Reel de papo descontraído (carro, café, boné pra trás) com assunto

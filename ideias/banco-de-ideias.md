@@ -43,6 +43,15 @@ Regra: a capa e o meio entregam experiência ou informação útil; a Move apare
 | ⬜ | "Troquei [programa caro de sempre] por um dia no mar" | Boas escolhas + lifestyle, comparação honesta |
 | ⬜ | "Como um passeio da Move acontece, do pedido ao pôr do sol" | Bastidor em fotos: confiança e segurança |
 
+### Inspirado nas referências (análise de 10/11 → `estrategia/analise-concorrentes-2026-11.md`)
+
+| Status | Formato | Gancho | Padrão de origem |
+|---|---|---|---|
+| ⬜ | Reel 15–20s | "Acesso é o novo luxo." | Frase-tese curta (@bragatheo: "Atenção é a moeda mais valiosa", 5,7k) |
+| ⬜ | Reel | "Se eu tivesse que escolher uma única característica pra quem quer empreender, não seria inteligência." (inquietude) | Uma característica (@guilhermebenchimol: "ser cara de pau", 52k) |
+| ⬜ | Reel | "Christopher Nolan não começou podendo fazer o filme que quisesse." | Metáfora de construção (@guilhermebenchimol: "grãos de areia", 54k) + sua assinatura (cinema) |
+| ⬜ | Reel ou carrossel | Homenagem a um membro da Community pelo nome, marcado | Reconhecimento nominal (@alfredosoares: "Pedrinho", 11,8k) |
+
 ## Pilar 2 — Empreender jovem / comunidade
 
 | Status | Formato | Gancho | Ideia |
