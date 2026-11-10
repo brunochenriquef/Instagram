@@ -8,12 +8,14 @@ Atualizado pelo Claude a cada rotina. ✅ = resolvido.
 |---|---|---|
 | ✅ Faturamento da Move ("passou dos 6 dígitos em 6 meses") | Reel 0 → 6 dígitos | 09/11 |
 | ⬜ As 3 perguntas ou críticas mais duras dos fundos (Inteli) | Reel dos 10 VCs | antes de publicar |
-| ⬜ As 3 decisões reais que levaram aos 6 dígitos | Reel 0 → 6 dígitos | gravação de 10/11 |
+| ⬜ As 3 decisões reais que levaram aos 6 dígitos | Reel 0 → 6 dígitos | gravação de **qui 12/11** (adiada) |
 | ⬜ Membro da Community para o Fazedores Ep. 1 (Pedro Kruk ou Artur?) | Série de collab | próxima semana |
 | ⬜ Vídeo de um encontro da Community (trecho com frase forte) | Corte em collab com @communityne | próxima semana |
 | ⬜ Cupom ou código próprio na Move (ex.: FAZEDORES) | Medir reservas vindas do perfil | quando der |
 | ⬜ Conectar o LinkedIn no Metricool (opcional) | Medir o LinkedIn junto | quando der |
 | ⬜ Renomear destaques e trocar fixados (ver `estrategia/perfil-bio.md`) | Converter visita em seguidor | quando der |
+
+| ⬜ Material da Move pronto pelo time (fotos/artes) para o carrossel possuir × acessar | Carrossel em collab | qui 12/11 |
 
 ## Com o Claude
 
