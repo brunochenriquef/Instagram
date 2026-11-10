@@ -130,6 +130,17 @@ Concorrentes no Metricool: @bragatheo, @tallisgomes, @guilhermebenchimol, @alfre
 - `roteiros/` — roteiros prontos para gravar (um arquivo por conteúdo)
 - `relatorios/` — relatório semanal de métricas (`AAAA-MM-DD.md`)
 - `guia-setup.md` — passo a passo de plugins, conectores e acessos
+- `pendencias.md` — o que está travando conteúdo (com o Bruno e com o Claude)
+
+## Papel do Claude: copiloto (pedido do Bruno, 10/11)
+
+O Bruno quer que o Claude faça o trabalho duro do conteúdo para bater a meta. Na prática:
+- **Ser proativo:** toda resposta termina com o próximo passo concreto. Não esperar o Bruno pedir análise.
+- **Conectar os pontos:** dados do Instagram + Threads + concorrentes + Drive da Move → pauta.
+- **Manter `pendencias.md` atualizado** com o que trava conteúdo e cobrar com leveza.
+- **Rotinas automáticas:** segunda 8h40 (relatório + plano + concorrentes), quinta 9h23 (check-in),
+  dia 3 de cada mês 9h37 (revisão da meta).
+- **Lapidar:** registrar no `CLAUDE.md` toda preferência ou decisão nova do Bruno.
 
 ## Divisão de trabalho (decisão de 05/11)
 
