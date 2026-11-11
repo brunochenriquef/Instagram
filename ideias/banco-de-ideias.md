@@ -30,6 +30,7 @@ Legenda de status: ⬜ não usada · 🎬 roteirizada · ✅ postada
 
 - ✅ 06/11 "O novo luxo talvez não esteja em possuir mais. Esteja em acessar melhor." → **2.044 de alcance, melhor post de feed em meses**
 - 🎬 Qua 11/11: "Possuir × acessar" (precisa de números reais dos donos de barco)
+- 🎬 Sex 13/11: "5 jeitos de viver São Luís que quase ninguém aproveita" (guia local + Move no fim)
 - ⬜ "O novo luxo é tempo" / "O novo luxo é experiência" (série "O novo luxo…")
 
 Regra: a capa e o meio entregam experiência ou informação útil; a Move aparece no fim como

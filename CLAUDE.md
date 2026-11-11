@@ -59,7 +59,7 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
   por ano). **Valuation, nº de clientes e pipeline de investidores são internos: nunca usar em post.**
 - **Carrossel lifestyle da Move no perfil pessoal (ideia do Bruno, 05/11):** fotos bonitas + experiência
   ou informação útil, com a Move no fim como "como fazer". Postar em collab com @movexperiences,
-  1 a cada 2 semanas. Medir com cupom ou código próprio (ex.: FAZEDORES) para saber quantas reservas vieram.
+  1 a cada 2 semanas (na prática, o Bruno está fazendo semanal). Identidade visual nova a partir de 13/11: mais clean. Medir com cupom ou código próprio (ex.: FAZEDORES) para saber quantas reservas vieram.
 - **LinkedIn:** o Bruno também posta lá. Versões longas e mais profundas (ex.: Alexandre, o Grande, 06/11).
   Fluxo bom: tese longa no Threads/LinkedIn → ver o que performa → versão em Reel no Instagram.
 - **Vídeo montado por IA: em espera.** O Bruno prefere o carrossel feito por ele (diferencia, já que
