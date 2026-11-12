@@ -139,6 +139,13 @@ Regra: a capa e o meio entregam experiência ou informação útil; a Move apare
 | ⬜ | Frodo e Sam no Monte da Perdição | Threads 11/10 |
 | ⬜ | Nolan: liberdade se conquista entrega após entrega | Threads 07/10 |
 
+### Do Threads (semana de 09/11)
+
+| Status | Formato | Gancho | Origem |
+|---|---|---|---|
+| ⬜ | Reel de fala | "Meu sócio me pediu ajuda pra pensar numa pergunta pro CEO do BTG. E eu travei." | Threads 11/11 |
+| ⬜ | Reel ou carrossel | "A campanha que mais vendeu foi a que mais expôs os problemas da empresa." | Threads 09/11 (200 views) |
+
 ## Pilar 3 — Boas escolhas (estilo minimalista)
 
 | Status | Formato | Gancho | Ideia |

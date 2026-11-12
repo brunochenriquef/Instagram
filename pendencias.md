@@ -15,7 +15,7 @@ Atualizado pelo Claude a cada rotina. ✅ = resolvido.
 | ⬜ Conectar o LinkedIn no Metricool (opcional) | Medir o LinkedIn junto | quando der |
 | ⬜ Renomear destaques e trocar fixados (ver `estrategia/perfil-bio.md`) | Converter visita em seguidor | quando der |
 
-| ⬜ Material da Move pronto pelo time (fotos/artes) para o carrossel possuir × acessar | Carrossel em collab | qui 12/11 |
+| ⬜ Lista das experiências e fotos para o carrossel "5 jeitos de viver São Luís" (time da Move) | Carrossel em collab | sex 13/11 |
 
 ## Com o Claude
 
