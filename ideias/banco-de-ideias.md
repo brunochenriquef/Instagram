@@ -139,6 +139,12 @@ Regra: a capa e o meio entregam experiência ou informação útil; a Move apare
 | ⬜ | Frodo e Sam no Monte da Perdição | Threads 11/10 |
 | ⬜ | Nolan: liberdade se conquista entrega após entrega | Threads 07/10 |
 
+### Notícia em aberto
+
+| Status | Formato | Gancho | Observação |
+|---|---|---|---|
+| ⬜ | Reel de fala | "Em 40 de 41 votações nos EUA, o eleitor disse não aos data centers." | Fatos e fontes em plano/2026-11-09-a-15.md (ajuste de 11/11). Perde força com o tempo |
+
 ### Do Threads (semana de 09/11)
 
 | Status | Formato | Gancho | Origem |
