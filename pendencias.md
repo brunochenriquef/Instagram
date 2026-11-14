@@ -7,8 +7,8 @@ Atualizado pelo Claude a cada rotina. ✅ = resolvido.
 | Item | Para quê | Prazo |
 |---|---|---|
 | ✅ Faturamento da Move ("passou dos 6 dígitos em 6 meses") | Reel 0 → 6 dígitos | 09/11 |
-| ⬜ As 3 perguntas ou críticas mais duras dos fundos (Inteli) | Reel dos 10 VCs | antes de publicar |
-| ⬜ As 3 decisões reais que levaram aos 6 dígitos | Reel 0 → 6 dígitos | gravação de **qui 12/11** (adiada) |
+| ✅ Perguntas dos fundos (gravadas no vídeo dos VCs) | Reel dos 10 VCs | 13/11 |
+| ✅ Gravação dos 3 vídeos (0 → 6 dígitos, 10 VCs, Alexandre) | Lançamento na semana de 16/11 | 13/11 |
 | ⬜ Membro da Community para o Fazedores Ep. 1 (Pedro Kruk ou Artur?) | Série de collab | próxima semana |
 | ⬜ Vídeo de um encontro da Community (trecho com frase forte) | Corte em collab com @communityne | próxima semana |
 | ⬜ Cupom ou código próprio na Move (ex.: FAZEDORES) | Medir reservas vindas do perfil | quando der |
