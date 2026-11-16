@@ -17,6 +17,10 @@ Atualizado pelo Claude a cada rotina. ✅ = resolvido.
 
 | ⬜ Lista das experiências e fotos para o carrossel "5 jeitos de viver São Luís" (time da Move) | Carrossel em collab | sex 13/11 |
 
+| ⬜ Edição dos 3 vídeos (time) | 0 → 6 dígitos seg 16 · VCs qua 18 · Alexandre sáb 21 | seg 16 |
+| ⬜ Quem você vai encontrar em SP (para a homenagem/collab de qui 19) | Furar a bolha de São Luís | ter 17 |
+| ⬜ Agendar o carrossel de São Luís antes de viajar | Sex 20 | antes da viagem |
+
 ## Com o Claude
 
 | Item | Quando |

@@ -44,6 +44,14 @@ Regra: a capa e o meio entregam experiência ou informação útil; a Move apare
 | ⬜ | "Troquei [programa caro de sempre] por um dia no mar" | Boas escolhas + lifestyle, comparação honesta |
 | ⬜ | "Como um passeio da Move acontece, do pedido ao pôr do sol" | Bastidor em fotos: confiança e segurança |
 
+### Inspirado nas referências (rotina de 16/11)
+
+| Status | Formato | Gancho | Padrão de origem |
+|---|---|---|---|
+| ⬜ | Reel ou carrossel (27/11) | "Antes de comprar qualquer coisa na Black Friday: eu preciso possuir isso ou só acessar?" | Data + opinião contrária (@tallisgomes, 15/11: 44,6k) |
+| 🎬 | Reel/carrossel | Homenagem a alguém de SP pelo nome | Reconhecimento nominal (@tallisgomes Verônica 12,6k) → Qui 19/11 |
+| ⬜ | Reel | Conquista pessoal (esporte, desafio) + "nada diferente do que todo empreendedor enfrenta" | @tallisgomes jiu-jitsu (19,7k) |
+
 ### Inspirado nas referências (análise de 10/11 → `estrategia/analise-concorrentes-2026-11.md`)
 
 | Status | Formato | Gancho | Padrão de origem |
@@ -133,6 +141,7 @@ Regra: a capa e o meio entregam experiência ou informação útil; a Move apare
 
 | Status | Cena | Origem |
 |---|---|---|
+| 🎬 | **O Poderoso Chefão**: Don Corleone não precisa levantar a voz | Threads 15/11 (**4.737 views**, recorde) → Ter 17/11 |
 | 🎬 | Sociedade dos Poetas Mortos: Keating sobe na mesa | Threads 08/11 (367 views) → Sex 13/11 |
 | 🎬 | O Show de Truman: a porta | Threads 26/10 (865 views) → Ter 10/11 |
 | ⬜ | Rocky: não precisava acreditar que venceria pra tentar | Threads 01/11 (645 views) |
