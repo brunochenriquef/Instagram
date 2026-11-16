@@ -22,6 +22,9 @@ Atualizado pelo Claude a cada rotina. ✅ = resolvido.
 | ⬜ @ do João + ok dele para citar o Theo e a PIB | Collab de qui 19 | antes de gravar |
 | ⬜ Agendar o carrossel de São Luís antes de viajar | Sex 20 | antes da viagem |
 
+| ⬜ @ e grafia certa do Mateus Couto (The Founders) | Fazedores Ep. 2 | antes de gravar |
+| ⬜ Ok do Lucas (e do compliance do escritório) para aparecer em conteúdo | Carrossel de finanças pessoais | se for usar |
+
 ## Com o Claude
 
 | Item | Quando |

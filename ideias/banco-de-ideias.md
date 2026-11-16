@@ -97,6 +97,9 @@ Regra: a capa e o meio entregam experiência ou informação útil; a Move apare
 
 | Status | Formato | Gancho | Ideia |
 |---|---|---|---|
+| 🎬 | Reel collab | "Perguntei pra quem trabalha do lado do Theo Braga o que ele aprendeu lá dentro." | Ep. 1 com João Gabriel (SP) → qui 19/11 |
+| 🎬 | Reel collab | "Duas comunidades de empreendedores. Uma em São Luís, outra em São Paulo." | Ep. 2 com Mateus Couto (The Founders) → semana de 23/11 |
+| ⬜ | Carrossel | "3 coisas que eu mudei no meu dinheiro depois que comecei a empreender" | Com contexto do Lucas (assessor), se o compliance liberar |
 | 🎬 | Reel collab | "Perguntei pra um fazedor o que ninguém fala sobre empreender." | Ep. 1 → plano 13/11 |
 | ⬜ | Reel collab | "Quanto custou o primeiro erro da sua empresa?" | Ep. com membro que tenha história de erro |
 | ⬜ | Reel collab | "Ele largou [carreira] pra empreender. Perguntei se valeu a pena." | Membro com mudança de carreira |
