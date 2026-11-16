@@ -9,7 +9,7 @@ Atualizado pelo Claude a cada rotina. ✅ = resolvido.
 | ✅ Faturamento da Move ("passou dos 6 dígitos em 6 meses") | Reel 0 → 6 dígitos | 09/11 |
 | ✅ Perguntas dos fundos (gravadas no vídeo dos VCs) | Reel dos 10 VCs | 13/11 |
 | ✅ Gravação dos 3 vídeos (0 → 6 dígitos, 10 VCs, Alexandre) | Lançamento na semana de 16/11 | 13/11 |
-| ⬜ Membro da Community para o Fazedores Ep. 1 (Pedro Kruk ou Artur?) | Série de collab | próxima semana |
+| ✅ Fazedores Ep. 1: João Gabriel (SP) | Série de collab | qui 19/11 |
 | ⬜ Vídeo de um encontro da Community (trecho com frase forte) | Corte em collab com @communityne | próxima semana |
 | ⬜ Cupom ou código próprio na Move (ex.: FAZEDORES) | Medir reservas vindas do perfil | quando der |
 | ⬜ Conectar o LinkedIn no Metricool (opcional) | Medir o LinkedIn junto | quando der |
@@ -18,7 +18,8 @@ Atualizado pelo Claude a cada rotina. ✅ = resolvido.
 | ⬜ Lista das experiências e fotos para o carrossel "5 jeitos de viver São Luís" (time da Move) | Carrossel em collab | sex 13/11 |
 
 | ⬜ Edição dos 3 vídeos (time) | 0 → 6 dígitos seg 16 · VCs qua 18 · Alexandre sáb 21 | seg 16 |
-| ⬜ Quem você vai encontrar em SP (para a homenagem/collab de qui 19) | Furar a bolha de São Luís | ter 17 |
+| ✅ Quem encontrar em SP: João Gabriel | Collab de qui 19 | 16/11 |
+| ⬜ @ do João + ok dele para citar o Theo e a PIB | Collab de qui 19 | antes de gravar |
 | ⬜ Agendar o carrossel de São Luís antes de viajar | Sex 20 | antes da viagem |
 
 ## Com o Claude
