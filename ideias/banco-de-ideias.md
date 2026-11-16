@@ -102,6 +102,12 @@ Regra: a capa e o meio entregam experiência ou informação útil; a Move apare
 | ⬜ | Reel collab | "Ele largou [carreira] pra empreender. Perguntei se valeu a pena." | Membro com mudança de carreira |
 | ⬜ | Reel corte | Frase forte de um encontro | Cortes de cada encontro da Community, em collab com @communityne |
 
+### Em stand-by (sugestão da outra IA do Bruno, 16/11)
+
+| Status | Formato | Gancho | Notas |
+|---|---|---|---|
+| ⬜ | Reel de fala (filosofia em vídeo, não carrossel) | "Sêneca escreveu há 2 mil anos que nada é mais difícil pra um homem ocupado do que viver." · "Estar sempre ocupado não é sinal de sucesso. Sêneca já sabia disso." · "O custo de estar sempre ocupado não aparece na agenda." | Fonte: *Sobre a brevidade da vida* (De Brevitate Vitae), cap. VII: "nada é menos próprio do homem ocupado do que viver". Conecta com o seu Threads de 28/09 ("Movimento não é necessariamente progresso"). Encaixar na semana de 23/11 |
+
 ### Filosofia (estático com frase ou Reel de ponto de vista)
 
 | Status | Formato | Frase / gancho | Ideia |
