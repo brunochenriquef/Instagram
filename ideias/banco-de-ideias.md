@@ -105,11 +105,20 @@ Regra: a capa e o meio entregam experiência ou informação útil; a Move apare
 | ⬜ | Reel collab | "Ele largou [carreira] pra empreender. Perguntei se valeu a pena." | Membro com mudança de carreira |
 | ⬜ | Reel corte | Frase forte de um encontro | Cortes de cada encontro da Community, em collab com @communityne |
 
-### Em stand-by (sugestão da outra IA do Bruno, 16/11)
+### 📚 Biblioteca de stand-by (para gravar quando a esteira de edição liberar)
 
-| Status | Formato | Gancho | Notas |
-|---|---|---|---|
-| ⬜ | Reel de fala (filosofia em vídeo, não carrossel) | "Sêneca escreveu há 2 mil anos que nada é mais difícil pra um homem ocupado do que viver." · "Estar sempre ocupado não é sinal de sucesso. Sêneca já sabia disso." · "O custo de estar sempre ocupado não aparece na agenda." | Fonte: *Sobre a brevidade da vida* (De Brevitate Vitae), cap. VII: "nada é menos próprio do homem ocupado do que viver". Conecta com o seu Threads de 28/09 ("Movimento não é necessariamente progresso"). Encaixar na semana de 23/11 |
+> Decisão de 18/11: com ~4 vídeos na fila de edição, ideias novas ficam aqui para não atolar a equipe.
+> A rotina de segunda puxa daqui quando a fila baixar.
+
+| Status | Tema | Formato | Ganchos | Fatos e fontes |
+|---|---|---|---|---|
+| ⬜ | **The Ivy (Londres, 1917): como uma marca centenária cresceu sem perder a essência** | Reel de fala (case) | "Um restaurante de 1917 virou uma rede de dezenas de casas. E continua sendo o lugar mais disputado de Londres." · "Como crescer sem perder o que fez as pessoas se apaixonarem?" · "A The Ivy fez algo que quase nenhuma marca consegue: escalar sem ficar comum." | Aberto em 1917 em Covent Garden como um café italiano (Abel Giandolini). Richard Caring assumiu em 2005. A partir de 2011 (Ivy Café) e 2014 (The Ivy Collection), lançou uma **linha mais acessível** (cafés, brasseries, Ivy Asia) enquanto o **restaurante original seguiu exclusivo** (e ganhou um clube privado). Em 2024, a Ivy Collection tinha perto de 50 casas e foi colocada à venda por cerca de £1 bi. **Lição:** duas camadas: o original protege o desejo, a coleção escala. Fontes: [Wikipedia](https://en.wikipedia.org/wiki/The_Ivy_(United_Kingdom)) · [Restaurant Online](https://www.restaurantonline.co.uk/Article/2017/09/19/The-Ivy-business-profile/) · [The Caterer](https://thecaterer.com/all-content/richard-caring-nears-1b-sale-of-ivy-collection). Não cravar número atual de casas (varia por data). |
+| ⬜ | **Sêneca: o custo de estar sempre ocupado** | Reel de fala (filosofia) | "Sêneca escreveu há 2 mil anos que nada é mais difícil pra um homem ocupado do que viver." · "Estar sempre ocupado não é sinal de sucesso." · "O custo de estar sempre ocupado não aparece na agenda." | *Sobre a brevidade da vida*, cap. VII ("nada é menos próprio do homem ocupado do que viver"). Ponte: Threads de 28/09 ("Movimento não é necessariamente progresso") |
+| ⬜ | Pergunta ao CEO do BTG | Reel de fala | "Meu sócio me pediu ajuda pra pensar numa pergunta pro CEO do BTG. E eu travei." | Threads 11/11 |
+
+**Ponte do The Ivy com o Bruno:** a mesma pergunta vale para a Move e para a Community: como crescer
+sem perder a curadoria e o "bom gosto" que fizeram as pessoas chegarem? (Liga com o post de Portugal,
+"empresa criada para durar", 22/05.)
 
 ### Filosofia (estático com frase ou Reel de ponto de vista)
 
