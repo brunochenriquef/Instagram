@@ -17,7 +17,8 @@ Atualizado pelo Claude a cada rotina. ✅ = resolvido.
 
 | ⬜ Lista das experiências e fotos para o carrossel "5 jeitos de viver São Luís" (time da Move) | Carrossel em collab | sex 13/11 |
 
-| ⬜ Edição dos 3 vídeos (time) | 0 → 6 dígitos seg 16 · VCs qua 18 · Alexandre sáb 21 | seg 16 |
+| ⬜ **Edição dos 3 vídeos (time) — atrasada** | 0 → 6 dígitos o quanto antes · VCs e Alexandre semana de 23/11 | **urgente** |
+| ⬜ Gravar O Poderoso Chefão no celular (SP) | Reel de sáb 21 | sex 20 |
 | ✅ Quem encontrar em SP: João Gabriel | Collab de qui 19 | 16/11 |
 | ⬜ @ do João + ok dele para citar o Theo e a PIB | Collab de qui 19 | antes de gravar |
 | ⬜ Agendar o carrossel de São Luís antes de viajar | Sex 20 | antes da viagem |
