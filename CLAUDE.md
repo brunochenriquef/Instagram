@@ -81,6 +81,9 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
   Briefing em `roteiros/2026-11-10-gravacao-videomaker.md`.
 - **Ritmo fixo da semana:** sábado = Reel de papo descontraído (carro, café, boné pra trás) com assunto
   de alcance; domingo = só Stories e feed de lifestyle.
+- **Aprendizados de novembro (23/11):** tema em alta + lição universal = compartilhamento (GTA: 47); resultado
+  sem "como" não viraliza (0 → 6 dígitos: 972 de alcance); série numerada ("Ep. 1, Ep. 2") nas cenas de filme.
+  O Tallis lançou série sobre Alexandre e livro de filosofia da gestão: diferenciar pelo cinema e pelo ângulo.
 - **Biblioteca de stand-by (18/11):** quando a fila de edição está cheia (~4 vídeos), ideias novas vão para a
   seção "📚 Biblioteca de stand-by" em `ideias/banco-de-ideias.md`, com ganchos e fatos já conferidos.
 - **Temas do momento:** o Bruno recebe a cada 2 dias, de um agendamento no ChatGPT, uma lista

@@ -156,11 +156,12 @@ sem perder a curadoria e o "bom gosto" que fizeram as pessoas chegarem? (Liga co
 | ⬜ | **Epicteto** | O que depende e o que não depende de você |
 | ⬜ | **Marco Aurélio** | Obstáculo como caminho, disciplina, liderança |
 
-### Série "Cenas que me ensinaram" (Reel de fala; assinatura do Bruno no Threads)
+### Série "Cenas que me ensinaram" (Reel de fala; assinatura do Bruno no Threads) — numerar os episódios na tela e na legenda
 
 | Status | Cena | Origem |
 |---|---|---|
-| 🎬 | **O Poderoso Chefão**: Don Corleone não precisa levantar a voz | Threads 15/11 (**4.737 views**, recorde) → Ter 17/11 |
+| 🎬 | **Ep. 1 — O Poderoso Chefão**: Don Corleone não precisa levantar a voz | Threads 15/11 (**8.612 views**, recorde) → Ter 24/11 |
+| 🎬 | **Ep. 2 — Whiplash**: disciplina × obsessão | Threads 22/11 (1.265 views) → Sáb 28/11 |
 | 🎬 | Sociedade dos Poetas Mortos: Keating sobe na mesa | Threads 08/11 (367 views) → Sex 13/11 |
 | 🎬 | O Show de Truman: a porta | Threads 26/10 (865 views) → Ter 10/11 |
 | ⬜ | Rocky: não precisava acreditar que venceria pra tentar | Threads 01/11 (645 views) |
