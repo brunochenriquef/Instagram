@@ -18,8 +18,10 @@ Atualizado pelo Claude a cada rotina. ✅ = resolvido.
 | ⬜ Lista das experiências e fotos para o carrossel "5 jeitos de viver São Luís" (time da Move) | Carrossel em collab | sex 13/11 |
 
 | ✅ 0 → 6 dígitos publicado | 19/11 | — |
-| ⬜ **Edição: 10 VCs e Alexandre** | Seg 23 e Qua 25 | **urgente** |
-| ⬜ O que foi gravado em SP (João? Mateus? Matarazzo?) | Qui 26 | seg 23 |
+| ✅ 10 VCs publicado | 24/11 | — |
+| ⬜ Edição do Alexandre | Qua 25 | amanhã |
+| ⬜ Matarazzo: gravado em SP ou gravar agora? | Sáb 28 | sex 27 |
+| ⬜ João Gabriel / Mateus Couto: gravaram algo? | Fazedores Ep. 1 e 2 | quando puder |
 | ⬜ Gravar O Poderoso Chefão no celular (SP) | Reel de sáb 21 | sex 20 |
 | ✅ Quem encontrar em SP: João Gabriel | Collab de qui 19 | 16/11 |
 | ⬜ @ do João + ok dele para citar o Theo e a PIB | Collab de qui 19 | antes de gravar |

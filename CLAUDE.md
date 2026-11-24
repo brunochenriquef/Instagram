@@ -86,6 +86,7 @@ Responda sempre em **português do Brasil**, direto ao ponto, tom de parceiro de
   O Tallis lançou série sobre Alexandre e livro de filosofia da gestão: diferenciar pelo cinema e pelo ângulo.
 - **Biblioteca de stand-by (18/11):** quando a fila de edição está cheia (~4 vídeos), ideias novas vão para a
   seção "📚 Biblioteca de stand-by" em `ideias/banco-de-ideias.md`, com ganchos e fatos já conferidos.
+- **Decisão de 24/11:** finalizar os vídeos da biblioteca de stand-by antes de trazer ideias novas.
 - **Temas do momento:** o Bruno recebe a cada 2 dias, de um agendamento no ChatGPT, uma lista
   de temas em alta (chega no app do ChatGPT, não por e-mail). Quando ele colar aqui, filtrar pelos pilares; um tema bom substitui o post do dia.
 - Detalhes: `relatorios/2026-11-04-diagnostico-inicial.md`.
