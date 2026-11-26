@@ -19,10 +19,11 @@ Atualizado pelo Claude a cada rotina. ✅ = resolvido.
 
 | ✅ 0 → 6 dígitos publicado | 19/11 | — |
 | ✅ 10 VCs publicado | 24/11 | — |
-| ⬜ Edição do Alexandre | Qua 25 | amanhã |
+| ⬜ Edição do Alexandre (atrasada) | Assim que chegar | — |
+| ✅ 10 VCs publicado (23/11) e dump de SP (24/11) | — | — |
 | ⬜ Matarazzo: gravar no celular (em São Luís) + separar fotos/vídeos seus da Matarazzo feitos em SP | Sáb 28 | sex 27 |
 | ⬜ João Gabriel / Mateus Couto: gravaram algo? | Fazedores Ep. 1 e 2 | quando puder |
-| ⬜ Gravar O Poderoso Chefão no celular (SP) | Reel de sáb 21 | sex 20 |
+| ⬜ **Gravar O Poderoso Chefão no celular** (pendente desde 17/11) | Reel de seg 30/11 | **fim de semana** |
 | ✅ Quem encontrar em SP: João Gabriel | Collab de qui 19 | 16/11 |
 | ⬜ @ do João + ok dele para citar o Theo e a PIB | Collab de qui 19 | antes de gravar |
 | ⬜ Agendar o carrossel de São Luís antes de viajar | Sex 20 | antes da viagem |
